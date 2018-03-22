@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 99e296f1a88d8264fb4c271b5c32074f
+timeCreated: 1521704215
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blend_ctrl
+    100002: blend_curve
+    100004: Boy_B
+    100006: Boy_b 1
+    100008: boy_b_base
+    100010: boy_b_blend
+    100012: boy_b_ctrl
+    100014: Character
+    100016: chest2_jnt
+    100018: chest3_jnt
+    100020: curve_end_SkinJoint_waist
+    100022: duzui_ctrl
+    100024: group290
+    100026: group291
+    100028: group292
+    100030: group293
+    100032: group294
+    100034: group295
+    100036: group297
+    100038: group298
+    100040: group299
+    100042: group300
+    100044: group301
+    100046: group302
+    100048: group303
+    100050: group304
+    100052: group305
+    100054: group306
+    100056: group307
+    100058: group308
+    100060: group309
+    100062: group310
+    100064: group311
+    100066: group312
+    100068: group313
+    100070: group314
+    100072: group315
+    100074: group316
+    100076: group317
+    100078: group318
+    100080: group319
+    100082: group320
+    100084: group321
+    100086: hand
+    100088: head
+    100090: head_animGRP_Loc
+    100092: head_b
+    100094: head_BS
+    100096: head_BS 1
+    100098: head_ctrl
+    100100: head_ctrl_GRP
+    100102: head_jawLow_jnt
+    100104: head_jawUp_jnt
+    100106: head_jnt
+    100108: kou
+    100110: kuzi
+    100112: l_shangbiyan_ctrl
+    100114: l_shangmei_ctrl
+    100116: l_shangmeigen_ctrl
+    100118: l_shangyan_ctrl
+    100120: l_shangyanbi_ctrl
+    100122: l_shangzui_ctrl
+    100124: l_shangzuijiao_ctrl
+    100126: l_xiamei_ctrl
+    100128: l_xiameigen_ctrl
+    100130: l_xiayan_ctrl
+    100132: l_xiazui_ctrl
+    100134: l_xiazuijiao_ctrl
+    100136: lazui_ctrl
+    100138: Lf_Arm1_jnt
+    100140: Lf_Arm2_jnt
+    100142: Lf_Arm3_jnt
+    100144: Lf_Arm4_jnt
+    100146: Lf_Arm5_jnt
+    100148: Lf_Arm6_jnt
+    100150: Lf_Arm7_jnt
+    100152: Lf_Arm8_jnt
+    100154: Lf_Arm9_jnt
+    100156: Lf_clavicle1_jnt
+    100158: Lf_clavicle2_jnt
+    100160: Lf_elbow_drv_jnt
+    100162: Lf_foot_drv
+    100164: Lf_index1_jnt
+    100166: Lf_index2_jnt
+    100168: Lf_index3_jnt
+    100170: Lf_index4_jnt
+    100172: Lf_indexRoot_jnt
+    100174: Lf_knee_drv_jnt
+    100176: Lf_Leg1_jnt
+    100178: Lf_Leg2_jnt
+    100180: Lf_Leg3_jnt
+    100182: Lf_Leg4_jnt
+    100184: Lf_Leg6_jnt
+    100186: Lf_Leg7_jnt
+    100188: Lf_Leg8_jnt
+    100190: Lf_Leg9_jnt
+    100192: Lf_leg_drv_jnt
+    100194: Lf_mid1_jnt
+    100196: Lf_mid2_jnt
+    100198: Lf_mid3_jnt
+    100200: Lf_mid4_jnt
+    100202: Lf_midRoot_jnt
+    100204: Lf_pinky1_jnt
+    100206: Lf_pinky2_jnt
+    100208: Lf_pinky3_jnt
+    100210: Lf_pinky4_jnt
+    100212: Lf_pinkyRoot_jnt
+    100214: Lf_ring1_jnt
+    100216: Lf_ring2_jnt
+    100218: Lf_ring3_jnt
+    100220: Lf_ring4_jnt
+    100222: Lf_ringRoot_jnt
+    100224: Lf_thumb1_jnt
+    100226: Lf_thumb2_jnt
+    100228: Lf_thumb3_jnt
+    100230: Lf_thumb4_jnt
+    100232: Lf_upArm_drv_jnt
+    100234: LfArm_ALL_CTRL_GRP
+    100236: Lfelbow_bend0_startJnt
+    100238: Lfknee_bend0_startJnt
+    100240: LfLeg_ALL_CTRL_GRP
+    100242: Master
+    100244: mouse_SH
+    100246: nan_pang:polySurface468
+    100248: nan_pang:polySurface61
+    100250: nan_pang:polySurface61 1
+    100252: neck1_jnt
+    100254: neck2_jnt
+    100256: neck_doNotTouch_GRP
+    100258: neck_GRP
+    100260: neiyi1
+    100262: nurbsToPoly141
+    100264: orient_jaw_drv
+    100266: P_grp
+    100268: pasted__pCylinder7
+    100270: pasted__pCylinder8
+    100272: pasted__polySurface117
+    100274: polySurface467
+    100276: polySurface469
+    100278: polySurface472
+    100280: polySurface473
+    100282: polySurface496
+    100284: polySurface508
+    100286: polySurface509
+    100288: polySurface511
+    100290: r_shangbiyan_ctrl
+    100292: r_shangmei_ctrl
+    100294: r_shangmeigen_ctrl
+    100296: r_shangyan_ctrl
+    100298: r_shangzui_ctrl
+    100300: r_shangzuijiao_ctrl
+    100302: r_xiamei_ctrl
+    100304: r_xiameigen_ctrl
+    100306: r_xiayan_ctrl
+    100308: r_xiayanbi_ctrl
+    100310: r_xiazui_ctrl
+    100312: r_xiazuijiao_ctrl
+    100314: root_waist_ikCtrl
+    100316: root_waist_ikCtrl_GRP
+    100318: Rt_Arm1_jnt
+    100320: Rt_Arm2_jnt
+    100322: Rt_Arm3_jnt
+    100324: Rt_Arm4_jnt
+    100326: Rt_Arm5_jnt
+    100328: Rt_Arm6_jnt
+    100330: Rt_Arm7_jnt
+    100332: Rt_Arm8_jnt
+    100334: Rt_Arm9_jnt
+    100336: Rt_clavicle1_jnt
+    100338: Rt_clavicle2_jnt
+    100340: Rt_elbow_drv_jnt
+    100342: Rt_foot_drv
+    100344: Rt_index1_jnt
+    100346: Rt_index2_jnt
+    100348: Rt_index3_jnt
+    100350: Rt_index4_jnt
+    100352: Rt_indexRoot_jnt
+    100354: Rt_knee_drv_jnt
+    100356: Rt_Leg1_jnt
+    100358: Rt_Leg2_jnt
+    100360: Rt_Leg3_jnt
+    100362: Rt_Leg4_jnt
+    100364: Rt_Leg6_jnt
+    100366: Rt_Leg7_jnt
+    100368: Rt_Leg8_jnt
+    100370: Rt_Leg9_jnt
+    100372: Rt_leg_drv_jnt
+    100374: Rt_mid1_jnt
+    100376: Rt_mid2_jnt
+    100378: Rt_mid3_jnt
+    100380: Rt_mid4_jnt
+    100382: Rt_midRoot_jnt
+    100384: Rt_pinky1_jnt
+    100386: Rt_pinky2_jnt
+    100388: Rt_pinky3_jnt
+    100390: Rt_pinky4_jnt
+    100392: Rt_pinkyRoot_jnt
+    100394: Rt_ring1_jnt
+    100396: Rt_ring2_jnt
+    100398: Rt_ring3_jnt
+    100400: Rt_ring4_jnt
+    100402: Rt_ringRoot_jnt
+    100404: Rt_thumb1_jnt
+    100406: Rt_thumb2_jnt
+    100408: Rt_thumb3_jnt
+    100410: Rt_thumb4_jnt
+    100412: Rt_upArm_drv_jnt
+    100414: RtArm_ALL_CTRL_GRP
+    100416: Rtelbow_bend0_startJnt
+    100418: Rtknee_bend0_startJnt
+    100420: RtLeg_ALL_CTRL_GRP
+    100422: shangyi
+    100424: spline1_jnt
+    100426: spline2_jnt
+    100428: spline3_jnt
+    100430: spline4_jnt
+    100432: tou
+    100434: waist1_root
+    100436: waist_Ctrl
+    100438: waist_Ctrl_GRP
+    100440: waist_doNotTouch_GRP
+    100442: waist_GRP
+    100444: waistikCtrl_GRP
+    100446: xia_teeth
+    100448: xie_group
+    100450: xie_L
+    100452: xie_R
+    100454: //RootNode
+    100456: zhangzui_ctrl
+    100458: zui_l_xia_ctrl
+    100460: zui_R_xia_ctrl
+    400000: blend_ctrl
+    400002: blend_curve
+    400004: Boy_B
+    400006: Boy_b 1
+    400008: boy_b_base
+    400010: boy_b_blend
+    400012: boy_b_ctrl
+    400014: Character
+    400016: chest2_jnt
+    400018: chest3_jnt
+    400020: curve_end_SkinJoint_waist
+    400022: duzui_ctrl
+    400024: group290
+    400026: group291
+    400028: group292
+    400030: group293
+    400032: group294
+    400034: group295
+    400036: group297
+    400038: group298
+    400040: group299
+    400042: group300
+    400044: group301
+    400046: group302
+    400048: group303
+    400050: group304
+    400052: group305
+    400054: group306
+    400056: group307
+    400058: group308
+    400060: group309
+    400062: group310
+    400064: group311
+    400066: group312
+    400068: group313
+    400070: group314
+    400072: group315
+    400074: group316
+    400076: group317
+    400078: group318
+    400080: group319
+    400082: group320
+    400084: group321
+    400086: hand
+    400088: head
+    400090: head_animGRP_Loc
+    400092: head_b
+    400094: head_BS
+    400096: head_BS 1
+    400098: head_ctrl
+    400100: head_ctrl_GRP
+    400102: head_jawLow_jnt
+    400104: head_jawUp_jnt
+    400106: head_jnt
+    400108: kou
+    400110: kuzi
+    400112: l_shangbiyan_ctrl
+    400114: l_shangmei_ctrl
+    400116: l_shangmeigen_ctrl
+    400118: l_shangyan_ctrl
+    400120: l_shangyanbi_ctrl
+    400122: l_shangzui_ctrl
+    400124: l_shangzuijiao_ctrl
+    400126: l_xiamei_ctrl
+    400128: l_xiameigen_ctrl
+    400130: l_xiayan_ctrl
+    400132: l_xiazui_ctrl
+    400134: l_xiazuijiao_ctrl
+    400136: lazui_ctrl
+    400138: Lf_Arm1_jnt
+    400140: Lf_Arm2_jnt
+    400142: Lf_Arm3_jnt
+    400144: Lf_Arm4_jnt
+    400146: Lf_Arm5_jnt
+    400148: Lf_Arm6_jnt
+    400150: Lf_Arm7_jnt
+    400152: Lf_Arm8_jnt
+    400154: Lf_Arm9_jnt
+    400156: Lf_clavicle1_jnt
+    400158: Lf_clavicle2_jnt
+    400160: Lf_elbow_drv_jnt
+    400162: Lf_foot_drv
+    400164: Lf_index1_jnt
+    400166: Lf_index2_jnt
+    400168: Lf_index3_jnt
+    400170: Lf_index4_jnt
+    400172: Lf_indexRoot_jnt
+    400174: Lf_knee_drv_jnt
+    400176: Lf_Leg1_jnt
+    400178: Lf_Leg2_jnt
+    400180: Lf_Leg3_jnt
+    400182: Lf_Leg4_jnt
+    400184: Lf_Leg6_jnt
+    400186: Lf_Leg7_jnt
+    400188: Lf_Leg8_jnt
+    400190: Lf_Leg9_jnt
+    400192: Lf_leg_drv_jnt
+    400194: Lf_mid1_jnt
+    400196: Lf_mid2_jnt
+    400198: Lf_mid3_jnt
+    400200: Lf_mid4_jnt
+    400202: Lf_midRoot_jnt
+    400204: Lf_pinky1_jnt
+    400206: Lf_pinky2_jnt
+    400208: Lf_pinky3_jnt
+    400210: Lf_pinky4_jnt
+    400212: Lf_pinkyRoot_jnt
+    400214: Lf_ring1_jnt
+    400216: Lf_ring2_jnt
+    400218: Lf_ring3_jnt
+    400220: Lf_ring4_jnt
+    400222: Lf_ringRoot_jnt
+    400224: Lf_thumb1_jnt
+    400226: Lf_thumb2_jnt
+    400228: Lf_thumb3_jnt
+    400230: Lf_thumb4_jnt
+    400232: Lf_upArm_drv_jnt
+    400234: LfArm_ALL_CTRL_GRP
+    400236: Lfelbow_bend0_startJnt
+    400238: Lfknee_bend0_startJnt
+    400240: LfLeg_ALL_CTRL_GRP
+    400242: Master
+    400244: mouse_SH
+    400246: nan_pang:polySurface468
+    400248: nan_pang:polySurface61
+    400250: nan_pang:polySurface61 1
+    400252: neck1_jnt
+    400254: neck2_jnt
+    400256: neck_doNotTouch_GRP
+    400258: neck_GRP
+    400260: neiyi1
+    400262: nurbsToPoly141
+    400264: orient_jaw_drv
+    400266: P_grp
+    400268: pasted__pCylinder7
+    400270: pasted__pCylinder8
+    400272: pasted__polySurface117
+    400274: polySurface467
+    400276: polySurface469
+    400278: polySurface472
+    400280: polySurface473
+    400282: polySurface496
+    400284: polySurface508
+    400286: polySurface509
+    400288: polySurface511
+    400290: r_shangbiyan_ctrl
+    400292: r_shangmei_ctrl
+    400294: r_shangmeigen_ctrl
+    400296: r_shangyan_ctrl
+    400298: r_shangzui_ctrl
+    400300: r_shangzuijiao_ctrl
+    400302: r_xiamei_ctrl
+    400304: r_xiameigen_ctrl
+    400306: r_xiayan_ctrl
+    400308: r_xiayanbi_ctrl
+    400310: r_xiazui_ctrl
+    400312: r_xiazuijiao_ctrl
+    400314: root_waist_ikCtrl
+    400316: root_waist_ikCtrl_GRP
+    400318: Rt_Arm1_jnt
+    400320: Rt_Arm2_jnt
+    400322: Rt_Arm3_jnt
+    400324: Rt_Arm4_jnt
+    400326: Rt_Arm5_jnt
+    400328: Rt_Arm6_jnt
+    400330: Rt_Arm7_jnt
+    400332: Rt_Arm8_jnt
+    400334: Rt_Arm9_jnt
+    400336: Rt_clavicle1_jnt
+    400338: Rt_clavicle2_jnt
+    400340: Rt_elbow_drv_jnt
+    400342: Rt_foot_drv
+    400344: Rt_index1_jnt
+    400346: Rt_index2_jnt
+    400348: Rt_index3_jnt
+    400350: Rt_index4_jnt
+    400352: Rt_indexRoot_jnt
+    400354: Rt_knee_drv_jnt
+    400356: Rt_Leg1_jnt
+    400358: Rt_Leg2_jnt
+    400360: Rt_Leg3_jnt
+    400362: Rt_Leg4_jnt
+    400364: Rt_Leg6_jnt
+    400366: Rt_Leg7_jnt
+    400368: Rt_Leg8_jnt
+    400370: Rt_Leg9_jnt
+    400372: Rt_leg_drv_jnt
+    400374: Rt_mid1_jnt
+    400376: Rt_mid2_jnt
+    400378: Rt_mid3_jnt
+    400380: Rt_mid4_jnt
+    400382: Rt_midRoot_jnt
+    400384: Rt_pinky1_jnt
+    400386: Rt_pinky2_jnt
+    400388: Rt_pinky3_jnt
+    400390: Rt_pinky4_jnt
+    400392: Rt_pinkyRoot_jnt
+    400394: Rt_ring1_jnt
+    400396: Rt_ring2_jnt
+    400398: Rt_ring3_jnt
+    400400: Rt_ring4_jnt
+    400402: Rt_ringRoot_jnt
+    400404: Rt_thumb1_jnt
+    400406: Rt_thumb2_jnt
+    400408: Rt_thumb3_jnt
+    400410: Rt_thumb4_jnt
+    400412: Rt_upArm_drv_jnt
+    400414: RtArm_ALL_CTRL_GRP
+    400416: Rtelbow_bend0_startJnt
+    400418: Rtknee_bend0_startJnt
+    400420: RtLeg_ALL_CTRL_GRP
+    400422: shangyi
+    400424: spline1_jnt
+    400426: spline2_jnt
+    400428: spline3_jnt
+    400430: spline4_jnt
+    400432: tou
+    400434: waist1_root
+    400436: waist_Ctrl
+    400438: waist_Ctrl_GRP
+    400440: waist_doNotTouch_GRP
+    400442: waist_GRP
+    400444: waistikCtrl_GRP
+    400446: xia_teeth
+    400448: xie_group
+    400450: xie_L
+    400452: xie_R
+    400454: //RootNode
+    400456: zhangzui_ctrl
+    400458: zui_l_xia_ctrl
+    400460: zui_R_xia_ctrl
+    2300000: pasted__pCylinder8
+    3300000: pasted__pCylinder8
+    4300000: nan_pang:polySurface468
+    4300002: polySurface467
+    4300004: polySurface469
+    4300006: nan_pang:polySurface61
+    4300008: nan_pang:polySurface61
+    4300010: tou
+    4300012: polySurface508
+    4300014: polySurface509
+    4300016: polySurface473
+    4300018: polySurface496
+    4300020: pasted__pCylinder7
+    4300022: pasted__pCylinder8
+    4300024: nurbsToPoly141
+    4300026: pasted__polySurface117
+    4300028: polySurface511
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: nan_pang:polySurface468
+    13700002: nan_pang:polySurface61
+    13700004: nan_pang:polySurface61 1
+    13700006: nurbsToPoly141
+    13700008: pasted__pCylinder7
+    13700010: pasted__polySurface117
+    13700012: polySurface467
+    13700014: polySurface469
+    13700016: polySurface473
+    13700018: polySurface496
+    13700020: polySurface508
+    13700022: polySurface509
+    13700024: polySurface511
+    13700026: tou
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy_b_base
+        weight: 1
+      - path: boy_b_base/Boy_b 1
+        weight: 1
+      - path: boy_b_base/Boy_b 1/Boy_B
+        weight: 1
+      - path: boy_b_base/Boy_b 1/Boy_B/head_b
+        weight: 1
+      - path: boy_b_base/Boy_b 1/Boy_B/head_b/head
+        weight: 1
+      - path: boy_b_base/Boy_b 1/Boy_B/head_b/head/tou
+        weight: 1
+      - path: boy_b_base/hand
+        weight: 1
+      - path: boy_b_base/hand/polySurface469
+        weight: 1
+      - path: boy_b_base/kuzi
+        weight: 1
+      - path: boy_b_base/kuzi/nan_pang:polySurface468
+        weight: 1
+      - path: boy_b_base/neiyi1
+        weight: 1
+      - path: boy_b_base/neiyi1/polySurface472
+        weight: 1
+      - path: boy_b_base/shangyi
+        weight: 1
+      - path: boy_b_base/shangyi/polySurface467
+        weight: 1
+      - path: boy_b_base/xie_group
+        weight: 1
+      - path: boy_b_base/xie_group/xie_L
+        weight: 1
+      - path: boy_b_base/xie_group/xie_L/nan_pang:polySurface61
+        weight: 1
+      - path: boy_b_base/xie_group/xie_R
+        weight: 1
+      - path: boy_b_base/xie_group/xie_R/nan_pang:polySurface61 1
+        weight: 1
+      - path: boy_b_blend
+        weight: 1
+      - path: boy_b_blend/head_BS
+        weight: 1
+      - path: boy_b_blend/head_BS/head_BS 1
+        weight: 1
+      - path: boy_b_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group290
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group290/mouse_SH
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group291
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group291/zhangzui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group292
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group292/duzui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group293
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group293/lazui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group294
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group294/zui_R_xia_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group295
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group295/zui_l_xia_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group297
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group297/r_xiazui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group298
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group298/l_xiazui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group299
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group299/r_shangzuijiao_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group300
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group300/l_shangzuijiao_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group301
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group301/r_shangzui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group302
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group302/l_shangzui_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group303
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group303/r_xiazuijiao_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group304
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group304/l_xiazuijiao_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group305
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group305/r_shangbiyan_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group306
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group306/r_xiayan_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group307
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group307/r_shangyan_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group308
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group308/r_xiayanbi_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group309
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group309/l_shangbiyan_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group310
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group310/l_xiayan_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group311
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group311/l_shangyan_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group312
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group312/l_shangyanbi_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group313
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group313/r_xiameigen_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group314
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group314/r_shangmeigen_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group315
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group315/r_shangmei_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group316
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group316/r_xiamei_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group317
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group317/l_xiameigen_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group318
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group318/l_shangmeigen_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group319
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group319/l_shangmei_ctrl
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group320
+        weight: 1
+      - path: boy_b_ctrl/blend_ctrl/blend_curve/group320/l_xiamei_ctrl
+        weight: 1
+      - path: boy_b_ctrl/Master
+        weight: 1
+      - path: boy_b_ctrl/Master/Character
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv/head_jawLow_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv/head_jawUp_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/neck_doNotTouch_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/neck_doNotTouch_GRP/neck1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/neck_doNotTouch_GRP/neck1_jnt/neck2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt/Lf_Arm2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt/Lf_Arm2_jnt/Lf_Arm3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt/Lf_Arm2_jnt/Lf_Arm3_jnt/Lf_Arm4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm5_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt/Lf_index2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt/Lf_index2_jnt/Lf_index3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt/Lf_index2_jnt/Lf_index3_jnt/Lf_index4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt/Lf_mid2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt/Lf_mid2_jnt/Lf_mid3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt/Lf_mid2_jnt/Lf_mid3_jnt/Lf_mid4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt/Lf_pinky2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt/Lf_pinky2_jnt/Lf_pinky3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt/Lf_pinky2_jnt/Lf_pinky3_jnt/Lf_pinky4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt/Lf_ring2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt/Lf_ring2_jnt/Lf_ring3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt/Lf_ring2_jnt/Lf_ring3_jnt/Lf_ring4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt/Lf_thumb2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt/Lf_thumb2_jnt/Lf_thumb3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt/Lf_thumb2_jnt/Lf_thumb3_jnt/Lf_thumb4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt/Lf_Arm6_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt/Lf_Arm6_jnt/Lf_Arm7_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt/Lf_Arm6_jnt/Lf_Arm7_jnt/Lf_Arm8_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt/Rt_Arm2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt/Rt_Arm2_jnt/Rt_Arm3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt/Rt_Arm2_jnt/Rt_Arm3_jnt/Rt_Arm4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm5_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt/Rt_index2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt/Rt_index2_jnt/Rt_index3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt/Rt_index2_jnt/Rt_index3_jnt/Rt_index4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt/Rt_mid2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt/Rt_mid2_jnt/Rt_mid3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt/Rt_mid2_jnt/Rt_mid3_jnt/Rt_mid4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt/Rt_pinky2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt/Rt_pinky2_jnt/Rt_pinky3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt/Rt_pinky2_jnt/Rt_pinky3_jnt/Rt_pinky4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt/Rt_ring2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt/Rt_ring2_jnt/Rt_ring3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt/Rt_ring2_jnt/Rt_ring3_jnt/Rt_ring4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt/Rt_thumb2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt/Rt_thumb2_jnt/Rt_thumb3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt/Rt_thumb2_jnt/Rt_thumb3_jnt/Rt_thumb4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt/Rt_Arm6_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt/Rt_Arm6_jnt/Rt_Arm7_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt/Rt_Arm6_jnt/Rt_Arm7_jnt/Rt_Arm8_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/waist1_root
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/waist1_root/spline2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/waist1_root/spline2_jnt/spline3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lf_Leg9_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lf_Leg9_jnt/Lf_foot_drv
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt/Lf_Leg6_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt/Lf_Leg6_jnt/Lf_Leg7_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt/Lf_Leg6_jnt/Lf_Leg7_jnt/Lf_Leg8_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt/Lf_Leg2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt/Lf_Leg2_jnt/Lf_Leg3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt/Lf_Leg2_jnt/Lf_Leg3_jnt/Lf_Leg4_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rt_Leg9_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rt_Leg9_jnt/Rt_foot_drv
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt/Rt_Leg6_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt/Rt_Leg6_jnt/Rt_Leg7_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt/Rt_Leg6_jnt/Rt_Leg7_jnt/Rt_Leg8_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt/Rt_Leg2_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt/Rt_Leg2_jnt/Rt_Leg3_jnt
+        weight: 1
+      - path: boy_b_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt/Rt_Leg2_jnt/Rt_Leg3_jnt/Rt_Leg4_jnt
+        weight: 1
+      - path: group321
+        weight: 1
+      - path: group321/nurbsToPoly141
+        weight: 1
+      - path: group321/pasted__pCylinder7
+        weight: 1
+      - path: group321/pasted__pCylinder8
+        weight: 1
+      - path: group321/pasted__polySurface117
+        weight: 1
+      - path: group321/polySurface511
+        weight: 1
+      - path: P_grp
+        weight: 1
+      - path: P_grp/kou
+        weight: 1
+      - path: P_grp/kou/polySurface508
+        weight: 1
+      - path: P_grp/kou/xia_teeth
+        weight: 1
+      - path: P_grp/kou/xia_teeth/polySurface473
+        weight: 1
+      - path: P_grp/kou/xia_teeth/polySurface496
+        weight: 1
+      - path: P_grp/kou/xia_teeth/polySurface509
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

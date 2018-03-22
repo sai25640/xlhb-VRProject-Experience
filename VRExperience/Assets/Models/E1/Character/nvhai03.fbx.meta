@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 6d6de2fe4634b7f42bb53cba9646d6e9
+timeCreated: 1519972664
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arms
+    100002: b_l_qunzi01
+    100004: b_l_qunzi02
+    100006: b_l_qunzi03
+    100008: b_r_qunzi01
+    100010: b_r_qunzi02
+    100012: b_r_qunzi03
+    100014: Character
+    100016: chest2_jnt
+    100018: chest3_jnt
+    100020: clothes
+    100022: curve10
+    100024: curve11
+    100026: curve12
+    100028: curve13
+    100030: curve14
+    100032: curve15
+    100034: curve16
+    100036: curve17
+    100038: curve18
+    100040: curve19
+    100042: curve2
+    100044: curve2 1
+    100046: curve2 10
+    100048: curve2 11
+    100050: curve2 12
+    100052: curve2 13
+    100054: curve2 14
+    100056: curve2 15
+    100058: curve2 16
+    100060: curve2 17
+    100062: curve2 18
+    100064: curve2 19
+    100066: curve2 2
+    100068: curve2 20
+    100070: curve2 21
+    100072: curve2 22
+    100074: curve2 23
+    100076: curve2 24
+    100078: curve2 25
+    100080: curve2 26
+    100082: curve2 27
+    100084: curve2 28
+    100086: curve2 29
+    100088: curve2 3
+    100090: curve2 4
+    100092: curve2 5
+    100094: curve2 6
+    100096: curve2 7
+    100098: curve2 8
+    100100: curve2 9
+    100102: curve20
+    100104: curve21
+    100106: curve22
+    100108: curve23
+    100110: curve24
+    100112: curve25
+    100114: curve26
+    100116: curve27
+    100118: curve28
+    100120: curve29
+    100122: curve30
+    100124: curve31
+    100126: curve32
+    100128: curve33
+    100130: curve34
+    100132: curve35
+    100134: curve36
+    100136: curve37
+    100138: curve6
+    100140: curve7
+    100142: curve8
+    100144: curve9
+    100146: curve_end_SkinJoint_waist
+    100148: f_lqunzi01
+    100150: f_lqunzi02
+    100152: f_lqunzi03
+    100154: f_r_qunzi01
+    100156: f_r_qunzi02
+    100158: f_r_qunzi03
+    100160: gebo_l4
+    100162: gebo_l6
+    100164: group1
+    100166: head3
+    100168: head_animGRP_Loc
+    100170: head_BS
+    100172: head_BS 1
+    100174: head_ctrl
+    100176: head_ctrl_GRP
+    100178: head_jawLow_jnt
+    100180: head_jawUp_jnt
+    100182: head_jnt
+    100184: kouqiang
+    100186: l_l_qunzi01
+    100188: l_l_qunzi02
+    100190: l_l_qunzi03
+    100192: leg_l4
+    100194: leg_l6
+    100196: legs
+    100198: Lf_Arm1_jnt
+    100200: Lf_Arm2_jnt
+    100202: Lf_Arm3_jnt
+    100204: Lf_Arm4_jnt
+    100206: Lf_Arm5_jnt
+    100208: Lf_Arm6_jnt
+    100210: Lf_Arm7_jnt
+    100212: Lf_Arm8_jnt
+    100214: Lf_Arm9_jnt
+    100216: Lf_clavicle1_jnt
+    100218: Lf_clavicle2_jnt
+    100220: Lf_elbow_drv_jnt
+    100222: Lf_foot_drv
+    100224: Lf_index1_jnt
+    100226: Lf_index2_jnt
+    100228: Lf_index3_jnt
+    100230: Lf_index4_jnt
+    100232: Lf_indexRoot_jnt
+    100234: Lf_knee_drv_jnt
+    100236: Lf_Leg1_jnt
+    100238: Lf_Leg2_jnt
+    100240: Lf_Leg3_jnt
+    100242: Lf_Leg4_jnt
+    100244: Lf_Leg5_jnt
+    100246: Lf_Leg6_jnt
+    100248: Lf_Leg7_jnt
+    100250: Lf_Leg8_jnt
+    100252: Lf_Leg9_jnt
+    100254: Lf_leg_drv_jnt
+    100256: Lf_mid1_jnt
+    100258: Lf_mid2_jnt
+    100260: Lf_mid3_jnt
+    100262: Lf_mid4_jnt
+    100264: Lf_midRoot_jnt
+    100266: Lf_pinky1_jnt
+    100268: Lf_pinky2_jnt
+    100270: Lf_pinky3_jnt
+    100272: Lf_pinky4_jnt
+    100274: Lf_pinkyRoot_jnt
+    100276: Lf_ring1_jnt
+    100278: Lf_ring2_jnt
+    100280: Lf_ring3_jnt
+    100282: Lf_ring4_jnt
+    100284: Lf_ringRoot_jnt
+    100286: Lf_thumb1_jnt
+    100288: Lf_thumb2_jnt
+    100290: Lf_thumb3_jnt
+    100292: Lf_thumb4_jnt
+    100294: Lf_upArm_drv_jnt
+    100296: LfArm_ALL_CTRL_GRP
+    100298: Lfelbow_bend0_startJnt
+    100300: Lfknee_bend0_startJnt
+    100302: LfLeg_ALL_CTRL_GRP
+    100304: Master
+    100306: neck1_jnt
+    100308: neck2_jnt
+    100310: neck_doNotTouch_GRP
+    100312: neck_GRP
+    100314: nurbsToPoly169
+    100316: //RootNode
+    100318: orient_jaw_drv
+    100320: pasted__polySurface496
+    100322: pasted__polySurface497
+    100324: pasted__polySurface498
+    100326: polySurface71
+    100328: polySurface72
+    100330: polySurface73
+    100332: polySurface74
+    100334: r_r_qunzi01
+    100336: r_r_qunzi02
+    100338: r_r_qunzi03
+    100340: root_waist_ikCtrl
+    100342: root_waist_ikCtrl_GRP
+    100344: Rt_Arm1_jnt
+    100346: Rt_Arm2_jnt
+    100348: Rt_Arm3_jnt
+    100350: Rt_Arm4_jnt
+    100352: Rt_Arm5_jnt
+    100354: Rt_Arm6_jnt
+    100356: Rt_Arm7_jnt
+    100358: Rt_Arm8_jnt
+    100360: Rt_Arm9_jnt
+    100362: Rt_clavicle1_jnt
+    100364: Rt_clavicle2_jnt
+    100366: Rt_elbow_drv_jnt
+    100368: Rt_foot_drv
+    100370: Rt_index1_jnt
+    100372: Rt_index2_jnt
+    100374: Rt_index3_jnt
+    100376: Rt_index4_jnt
+    100378: Rt_indexRoot_jnt
+    100380: Rt_knee_drv_jnt
+    100382: Rt_Leg1_jnt
+    100384: Rt_Leg2_jnt
+    100386: Rt_Leg3_jnt
+    100388: Rt_Leg4_jnt
+    100390: Rt_Leg5_jnt
+    100392: Rt_Leg6_jnt
+    100394: Rt_Leg7_jnt
+    100396: Rt_Leg8_jnt
+    100398: Rt_Leg9_jnt
+    100400: Rt_leg_drv_jnt
+    100402: Rt_mid1_jnt
+    100404: Rt_mid2_jnt
+    100406: Rt_mid3_jnt
+    100408: Rt_mid4_jnt
+    100410: Rt_midRoot_jnt
+    100412: Rt_pinky1_jnt
+    100414: Rt_pinky2_jnt
+    100416: Rt_pinky3_jnt
+    100418: Rt_pinky4_jnt
+    100420: Rt_pinkyRoot_jnt
+    100422: Rt_ring1_jnt
+    100424: Rt_ring2_jnt
+    100426: Rt_ring3_jnt
+    100428: Rt_ring4_jnt
+    100430: Rt_ringRoot_jnt
+    100432: Rt_thumb1_jnt
+    100434: Rt_thumb2_jnt
+    100436: Rt_thumb3_jnt
+    100438: Rt_thumb4_jnt
+    100440: Rt_upArm_drv_jnt
+    100442: RtArm_ALL_CTRL_GRP
+    100444: Rtelbow_bend0_startJnt
+    100446: Rtknee_bend0_startJnt
+    100448: RtLeg_ALL_CTRL_GRP
+    100450: shoes
+    100452: spline1_jnt
+    100454: spline2_jnt
+    100456: spline3_jnt
+    100458: spline4_jnt
+    100460: Student_girl_A
+    100462: student_girl_A_base
+    100464: student_girl_A_blend
+    100466: student_girl_A_ctrl
+    100468: waist1_root
+    100470: waist_Ctrl
+    100472: waist_Ctrl_GRP
+    100474: waist_doNotTouch_GRP
+    100476: waist_GRP
+    100478: waistikCtrl_GRP
+    100480: yanjing:polySurface1
+    400000: arms
+    400002: b_l_qunzi01
+    400004: b_l_qunzi02
+    400006: b_l_qunzi03
+    400008: b_r_qunzi01
+    400010: b_r_qunzi02
+    400012: b_r_qunzi03
+    400014: Character
+    400016: chest2_jnt
+    400018: chest3_jnt
+    400020: clothes
+    400022: curve10
+    400024: curve11
+    400026: curve12
+    400028: curve13
+    400030: curve14
+    400032: curve15
+    400034: curve16
+    400036: curve17
+    400038: curve18
+    400040: curve19
+    400042: curve2
+    400044: curve2 1
+    400046: curve2 10
+    400048: curve2 11
+    400050: curve2 12
+    400052: curve2 13
+    400054: curve2 14
+    400056: curve2 15
+    400058: curve2 16
+    400060: curve2 17
+    400062: curve2 18
+    400064: curve2 19
+    400066: curve2 2
+    400068: curve2 20
+    400070: curve2 21
+    400072: curve2 22
+    400074: curve2 23
+    400076: curve2 24
+    400078: curve2 25
+    400080: curve2 26
+    400082: curve2 27
+    400084: curve2 28
+    400086: curve2 29
+    400088: curve2 3
+    400090: curve2 4
+    400092: curve2 5
+    400094: curve2 6
+    400096: curve2 7
+    400098: curve2 8
+    400100: curve2 9
+    400102: curve20
+    400104: curve21
+    400106: curve22
+    400108: curve23
+    400110: curve24
+    400112: curve25
+    400114: curve26
+    400116: curve27
+    400118: curve28
+    400120: curve29
+    400122: curve30
+    400124: curve31
+    400126: curve32
+    400128: curve33
+    400130: curve34
+    400132: curve35
+    400134: curve36
+    400136: curve37
+    400138: curve6
+    400140: curve7
+    400142: curve8
+    400144: curve9
+    400146: curve_end_SkinJoint_waist
+    400148: f_lqunzi01
+    400150: f_lqunzi02
+    400152: f_lqunzi03
+    400154: f_r_qunzi01
+    400156: f_r_qunzi02
+    400158: f_r_qunzi03
+    400160: gebo_l4
+    400162: gebo_l6
+    400164: group1
+    400166: head3
+    400168: head_animGRP_Loc
+    400170: head_BS
+    400172: head_BS 1
+    400174: head_ctrl
+    400176: head_ctrl_GRP
+    400178: head_jawLow_jnt
+    400180: head_jawUp_jnt
+    400182: head_jnt
+    400184: kouqiang
+    400186: l_l_qunzi01
+    400188: l_l_qunzi02
+    400190: l_l_qunzi03
+    400192: leg_l4
+    400194: leg_l6
+    400196: legs
+    400198: Lf_Arm1_jnt
+    400200: Lf_Arm2_jnt
+    400202: Lf_Arm3_jnt
+    400204: Lf_Arm4_jnt
+    400206: Lf_Arm5_jnt
+    400208: Lf_Arm6_jnt
+    400210: Lf_Arm7_jnt
+    400212: Lf_Arm8_jnt
+    400214: Lf_Arm9_jnt
+    400216: Lf_clavicle1_jnt
+    400218: Lf_clavicle2_jnt
+    400220: Lf_elbow_drv_jnt
+    400222: Lf_foot_drv
+    400224: Lf_index1_jnt
+    400226: Lf_index2_jnt
+    400228: Lf_index3_jnt
+    400230: Lf_index4_jnt
+    400232: Lf_indexRoot_jnt
+    400234: Lf_knee_drv_jnt
+    400236: Lf_Leg1_jnt
+    400238: Lf_Leg2_jnt
+    400240: Lf_Leg3_jnt
+    400242: Lf_Leg4_jnt
+    400244: Lf_Leg5_jnt
+    400246: Lf_Leg6_jnt
+    400248: Lf_Leg7_jnt
+    400250: Lf_Leg8_jnt
+    400252: Lf_Leg9_jnt
+    400254: Lf_leg_drv_jnt
+    400256: Lf_mid1_jnt
+    400258: Lf_mid2_jnt
+    400260: Lf_mid3_jnt
+    400262: Lf_mid4_jnt
+    400264: Lf_midRoot_jnt
+    400266: Lf_pinky1_jnt
+    400268: Lf_pinky2_jnt
+    400270: Lf_pinky3_jnt
+    400272: Lf_pinky4_jnt
+    400274: Lf_pinkyRoot_jnt
+    400276: Lf_ring1_jnt
+    400278: Lf_ring2_jnt
+    400280: Lf_ring3_jnt
+    400282: Lf_ring4_jnt
+    400284: Lf_ringRoot_jnt
+    400286: Lf_thumb1_jnt
+    400288: Lf_thumb2_jnt
+    400290: Lf_thumb3_jnt
+    400292: Lf_thumb4_jnt
+    400294: Lf_upArm_drv_jnt
+    400296: LfArm_ALL_CTRL_GRP
+    400298: Lfelbow_bend0_startJnt
+    400300: Lfknee_bend0_startJnt
+    400302: LfLeg_ALL_CTRL_GRP
+    400304: Master
+    400306: neck1_jnt
+    400308: neck2_jnt
+    400310: neck_doNotTouch_GRP
+    400312: neck_GRP
+    400314: nurbsToPoly169
+    400316: //RootNode
+    400318: orient_jaw_drv
+    400320: pasted__polySurface496
+    400322: pasted__polySurface497
+    400324: pasted__polySurface498
+    400326: polySurface71
+    400328: polySurface72
+    400330: polySurface73
+    400332: polySurface74
+    400334: r_r_qunzi01
+    400336: r_r_qunzi02
+    400338: r_r_qunzi03
+    400340: root_waist_ikCtrl
+    400342: root_waist_ikCtrl_GRP
+    400344: Rt_Arm1_jnt
+    400346: Rt_Arm2_jnt
+    400348: Rt_Arm3_jnt
+    400350: Rt_Arm4_jnt
+    400352: Rt_Arm5_jnt
+    400354: Rt_Arm6_jnt
+    400356: Rt_Arm7_jnt
+    400358: Rt_Arm8_jnt
+    400360: Rt_Arm9_jnt
+    400362: Rt_clavicle1_jnt
+    400364: Rt_clavicle2_jnt
+    400366: Rt_elbow_drv_jnt
+    400368: Rt_foot_drv
+    400370: Rt_index1_jnt
+    400372: Rt_index2_jnt
+    400374: Rt_index3_jnt
+    400376: Rt_index4_jnt
+    400378: Rt_indexRoot_jnt
+    400380: Rt_knee_drv_jnt
+    400382: Rt_Leg1_jnt
+    400384: Rt_Leg2_jnt
+    400386: Rt_Leg3_jnt
+    400388: Rt_Leg4_jnt
+    400390: Rt_Leg5_jnt
+    400392: Rt_Leg6_jnt
+    400394: Rt_Leg7_jnt
+    400396: Rt_Leg8_jnt
+    400398: Rt_Leg9_jnt
+    400400: Rt_leg_drv_jnt
+    400402: Rt_mid1_jnt
+    400404: Rt_mid2_jnt
+    400406: Rt_mid3_jnt
+    400408: Rt_mid4_jnt
+    400410: Rt_midRoot_jnt
+    400412: Rt_pinky1_jnt
+    400414: Rt_pinky2_jnt
+    400416: Rt_pinky3_jnt
+    400418: Rt_pinky4_jnt
+    400420: Rt_pinkyRoot_jnt
+    400422: Rt_ring1_jnt
+    400424: Rt_ring2_jnt
+    400426: Rt_ring3_jnt
+    400428: Rt_ring4_jnt
+    400430: Rt_ringRoot_jnt
+    400432: Rt_thumb1_jnt
+    400434: Rt_thumb2_jnt
+    400436: Rt_thumb3_jnt
+    400438: Rt_thumb4_jnt
+    400440: Rt_upArm_drv_jnt
+    400442: RtArm_ALL_CTRL_GRP
+    400444: Rtelbow_bend0_startJnt
+    400446: Rtknee_bend0_startJnt
+    400448: RtLeg_ALL_CTRL_GRP
+    400450: shoes
+    400452: spline1_jnt
+    400454: spline2_jnt
+    400456: spline3_jnt
+    400458: spline4_jnt
+    400460: Student_girl_A
+    400462: student_girl_A_base
+    400464: student_girl_A_blend
+    400466: student_girl_A_ctrl
+    400468: waist1_root
+    400470: waist_Ctrl
+    400472: waist_Ctrl_GRP
+    400474: waist_doNotTouch_GRP
+    400476: waist_GRP
+    400478: waistikCtrl_GRP
+    400480: yanjing:polySurface1
+    2300000: yanjing:polySurface1
+    3300000: yanjing:polySurface1
+    4300000: head3
+    4300002: gebo_l4
+    4300004: gebo_l6
+    4300006: leg_l4
+    4300008: leg_l6
+    4300010: polySurface72
+    4300012: polySurface73
+    4300014: polySurface71
+    4300016: polySurface74
+    4300018: yanjing:polySurface1
+    4300020: pasted__polySurface497
+    4300022: pasted__polySurface496
+    4300024: pasted__polySurface498
+    4300026: nurbsToPoly169
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: gebo_l4
+    13700002: gebo_l6
+    13700004: head3
+    13700006: leg_l4
+    13700008: leg_l6
+    13700010: nurbsToPoly169
+    13700012: pasted__polySurface496
+    13700014: pasted__polySurface497
+    13700016: pasted__polySurface498
+    13700018: polySurface71
+    13700020: polySurface72
+    13700022: polySurface73
+    13700024: polySurface74
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsToPoly169
+        weight: 1
+      - path: Student_girl_A
+        weight: 1
+      - path: Student_girl_A/kouqiang
+        weight: 1
+      - path: Student_girl_A/kouqiang/pasted__polySurface496
+        weight: 1
+      - path: Student_girl_A/kouqiang/pasted__polySurface497
+        weight: 1
+      - path: Student_girl_A/kouqiang/pasted__polySurface498
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/arms
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/arms/gebo_l4
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/arms/gebo_l6
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/clothes
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/clothes/polySurface71
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/clothes/polySurface74
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/head3
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/legs
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/legs/leg_l4
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/legs/leg_l6
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/shoes
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/shoes/polySurface72
+        weight: 1
+      - path: Student_girl_A/student_girl_A_base/shoes/polySurface73
+        weight: 1
+      - path: Student_girl_A/student_girl_A_blend
+        weight: 1
+      - path: Student_girl_A/student_girl_A_blend/head_BS
+        weight: 1
+      - path: Student_girl_A/student_girl_A_blend/head_BS/head_BS 1
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve6
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve6/curve2
+          26
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve7
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve7/curve2
+          27
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve8
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve8/curve2
+          28
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve9
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve9/curve2
+          29
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve10
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve10/curve2
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve11
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve11/curve2
+          1
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve12
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve12/curve2
+          2
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve13
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve13/curve2
+          3
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve14
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve14/curve2
+          4
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve15
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve15/curve2
+          5
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve16
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve16/curve2
+          6
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve17
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve17/curve2
+          7
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve18
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve18/curve2
+          8
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve19
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve19/curve2
+          9
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve20
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve20/curve2
+          10
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve21
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve21/curve2
+          11
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve22
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve22/curve2
+          12
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve23
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve23/curve2
+          13
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve24
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve24/curve2
+          14
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve25
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve25/curve2
+          15
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve26
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve26/curve2
+          16
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve27
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve27/curve2
+          17
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve28
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve28/curve2
+          18
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve29
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve29/curve2
+          19
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve30
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve30/curve2
+          20
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve31
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve31/curve2
+          21
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve32
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve32/curve2
+          22
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve33
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve33/curve2
+          23
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve34
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve34/curve2
+          24
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve35
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/curve37/curve36/group1/curve35/curve2
+          25
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv/head_jawLow_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv/head_jawUp_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/head_animGRP_Loc/head_ctrl_GRP/head_ctrl/head_jnt/orient_jaw_drv/yanjing:polySurface1
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/neck_doNotTouch_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/neck_doNotTouch_GRP/neck1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/chest3_jnt/neck_GRP/neck_doNotTouch_GRP/neck1_jnt/neck2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt/Lf_Arm2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt/Lf_Arm2_jnt/Lf_Arm3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm1_jnt/Lf_Arm2_jnt/Lf_Arm3_jnt/Lf_Arm4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_Arm5_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt/Lf_index2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt/Lf_index2_jnt/Lf_index3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_indexRoot_jnt/Lf_index1_jnt/Lf_index2_jnt/Lf_index3_jnt/Lf_index4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt/Lf_mid2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt/Lf_mid2_jnt/Lf_mid3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_midRoot_jnt/Lf_mid1_jnt/Lf_mid2_jnt/Lf_mid3_jnt/Lf_mid4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt/Lf_pinky2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt/Lf_pinky2_jnt/Lf_pinky3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_pinkyRoot_jnt/Lf_pinky1_jnt/Lf_pinky2_jnt/Lf_pinky3_jnt/Lf_pinky4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt/Lf_ring2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt/Lf_ring2_jnt/Lf_ring3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_ringRoot_jnt/Lf_ring1_jnt/Lf_ring2_jnt/Lf_ring3_jnt/Lf_ring4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt/Lf_thumb2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt/Lf_thumb2_jnt/Lf_thumb3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lf_Arm9_jnt/Lf_thumb1_jnt/Lf_thumb2_jnt/Lf_thumb3_jnt/Lf_thumb4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt/Lf_Arm6_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt/Lf_Arm6_jnt/Lf_Arm7_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Lf_clavicle1_jnt/Lf_clavicle2_jnt/LfArm_ALL_CTRL_GRP/Lf_upArm_drv_jnt/Lf_elbow_drv_jnt/Lfelbow_bend0_startJnt/Lf_Arm6_jnt/Lf_Arm7_jnt/Lf_Arm8_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt/Rt_Arm2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt/Rt_Arm2_jnt/Rt_Arm3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm1_jnt/Rt_Arm2_jnt/Rt_Arm3_jnt/Rt_Arm4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_Arm5_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt/Rt_index2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt/Rt_index2_jnt/Rt_index3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_indexRoot_jnt/Rt_index1_jnt/Rt_index2_jnt/Rt_index3_jnt/Rt_index4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt/Rt_mid2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt/Rt_mid2_jnt/Rt_mid3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_midRoot_jnt/Rt_mid1_jnt/Rt_mid2_jnt/Rt_mid3_jnt/Rt_mid4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt/Rt_pinky2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt/Rt_pinky2_jnt/Rt_pinky3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_pinkyRoot_jnt/Rt_pinky1_jnt/Rt_pinky2_jnt/Rt_pinky3_jnt/Rt_pinky4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt/Rt_ring2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt/Rt_ring2_jnt/Rt_ring3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_ringRoot_jnt/Rt_ring1_jnt/Rt_ring2_jnt/Rt_ring3_jnt/Rt_ring4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt/Rt_thumb2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt/Rt_thumb2_jnt/Rt_thumb3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rt_Arm9_jnt/Rt_thumb1_jnt/Rt_thumb2_jnt/Rt_thumb3_jnt/Rt_thumb4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt/Rt_Arm6_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt/Rt_Arm6_jnt/Rt_Arm7_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/curve_end_SkinJoint_waist/spline4_jnt/chest2_jnt/Rt_clavicle1_jnt/Rt_clavicle2_jnt/RtArm_ALL_CTRL_GRP/Rt_upArm_drv_jnt/Rt_elbow_drv_jnt/Rtelbow_bend0_startJnt/Rt_Arm6_jnt/Rt_Arm7_jnt/Rt_Arm8_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/b_l_qunzi01
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/b_l_qunzi01/b_l_qunzi02
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/b_l_qunzi01/b_l_qunzi02/b_l_qunzi03
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/b_r_qunzi01
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/b_r_qunzi01/b_r_qunzi02
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/b_r_qunzi01/b_r_qunzi02/b_r_qunzi03
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/f_lqunzi01
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/f_lqunzi01/f_lqunzi02
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/f_lqunzi01/f_lqunzi02/f_lqunzi03
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/f_r_qunzi01
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/f_r_qunzi01/f_r_qunzi02
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/f_r_qunzi01/f_r_qunzi02/f_r_qunzi03
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/l_l_qunzi01
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/l_l_qunzi01/l_l_qunzi02
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/l_l_qunzi01/l_l_qunzi02/l_l_qunzi03
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/r_r_qunzi01
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/r_r_qunzi01/r_r_qunzi02
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/spline1_jnt/r_r_qunzi01/r_r_qunzi02/r_r_qunzi03
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/waist1_root
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/waist1_root/spline2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waist_doNotTouch_GRP/waist1_root/spline2_jnt/spline3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lf_Leg9_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lf_Leg9_jnt/Lf_foot_drv
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt/Lf_Leg6_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt/Lf_Leg6_jnt/Lf_Leg7_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_knee_drv_jnt/Lfknee_bend0_startJnt/Lf_Leg6_jnt/Lf_Leg7_jnt/Lf_Leg8_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt/Lf_Leg2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt/Lf_Leg2_jnt/Lf_Leg3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg1_jnt/Lf_Leg2_jnt/Lf_Leg3_jnt/Lf_Leg4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/LfLeg_ALL_CTRL_GRP/Lf_leg_drv_jnt/Lf_Leg5_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rt_Leg9_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rt_Leg9_jnt/Rt_foot_drv
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt/Rt_Leg6_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt/Rt_Leg6_jnt/Rt_Leg7_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_knee_drv_jnt/Rtknee_bend0_startJnt/Rt_Leg6_jnt/Rt_Leg7_jnt/Rt_Leg8_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt/Rt_Leg2_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt/Rt_Leg2_jnt/Rt_Leg3_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg1_jnt/Rt_Leg2_jnt/Rt_Leg3_jnt/Rt_Leg4_jnt
+        weight: 1
+      - path: Student_girl_A/student_girl_A_ctrl/Master/Character/waist_Ctrl_GRP/waist_Ctrl/waist_GRP/waistikCtrl_GRP/root_waist_ikCtrl_GRP/root_waist_ikCtrl/RtLeg_ALL_CTRL_GRP/Rt_leg_drv_jnt/Rt_Leg5_jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

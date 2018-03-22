@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: e2f8884b1a20fc443a9c8850dd6f117a
+timeCreated: 1519803561
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: kouzhao:polySurface1
+    100002: nurbsCircle1
+    100004: //RootNode
+    100006: yanjingnan03changjing1_1:bao:polySurface6
+    100008: yanjingnan03changjing1_1:blend_ctrl
+    100010: yanjingnan03changjing1_1:blend_curve
+    100012: yanjingnan03changjing1_1:Boy_B
+    100014: yanjingnan03changjing1_1:Boy_b 1
+    100016: yanjingnan03changjing1_1:boy_b_base
+    100018: yanjingnan03changjing1_1:boy_b_blend
+    100020: yanjingnan03changjing1_1:boy_b_ctrl
+    100022: yanjingnan03changjing1_1:Character
+    100024: yanjingnan03changjing1_1:chest2_jnt
+    100026: yanjingnan03changjing1_1:chest3_jnt
+    100028: yanjingnan03changjing1_1:curve_end_SkinJoint_waist
+    100030: yanjingnan03changjing1_1:duzui_ctrl
+    100032: yanjingnan03changjing1_1:group290
+    100034: yanjingnan03changjing1_1:group291
+    100036: yanjingnan03changjing1_1:group292
+    100038: yanjingnan03changjing1_1:group293
+    100040: yanjingnan03changjing1_1:group294
+    100042: yanjingnan03changjing1_1:group295
+    100044: yanjingnan03changjing1_1:group297
+    100046: yanjingnan03changjing1_1:group298
+    100048: yanjingnan03changjing1_1:group299
+    100050: yanjingnan03changjing1_1:group300
+    100052: yanjingnan03changjing1_1:group301
+    100054: yanjingnan03changjing1_1:group302
+    100056: yanjingnan03changjing1_1:group303
+    100058: yanjingnan03changjing1_1:group304
+    100060: yanjingnan03changjing1_1:group305
+    100062: yanjingnan03changjing1_1:group306
+    100064: yanjingnan03changjing1_1:group307
+    100066: yanjingnan03changjing1_1:group308
+    100068: yanjingnan03changjing1_1:group309
+    100070: yanjingnan03changjing1_1:group310
+    100072: yanjingnan03changjing1_1:group311
+    100074: yanjingnan03changjing1_1:group312
+    100076: yanjingnan03changjing1_1:group313
+    100078: yanjingnan03changjing1_1:group314
+    100080: yanjingnan03changjing1_1:group315
+    100082: yanjingnan03changjing1_1:group316
+    100084: yanjingnan03changjing1_1:group317
+    100086: yanjingnan03changjing1_1:group318
+    100088: yanjingnan03changjing1_1:group319
+    100090: yanjingnan03changjing1_1:group320
+    100092: yanjingnan03changjing1_1:group321
+    100094: yanjingnan03changjing1_1:hand
+    100096: yanjingnan03changjing1_1:head
+    100098: yanjingnan03changjing1_1:head_animGRP_Loc
+    100100: yanjingnan03changjing1_1:head_b
+    100102: yanjingnan03changjing1_1:head_BS
+    100104: yanjingnan03changjing1_1:head_BS 1
+    100106: yanjingnan03changjing1_1:head_ctrl
+    100108: yanjingnan03changjing1_1:head_ctrl_GRP
+    100110: yanjingnan03changjing1_1:head_jawLow_jnt
+    100112: yanjingnan03changjing1_1:head_jawUp_jnt
+    100114: yanjingnan03changjing1_1:head_jnt
+    100116: yanjingnan03changjing1_1:kou
+    100118: yanjingnan03changjing1_1:kuzi
+    100120: yanjingnan03changjing1_1:l_shangbiyan_ctrl
+    100122: yanjingnan03changjing1_1:l_shangmei_ctrl
+    100124: yanjingnan03changjing1_1:l_shangmeigen_ctrl
+    100126: yanjingnan03changjing1_1:l_shangyan_ctrl
+    100128: yanjingnan03changjing1_1:l_shangyanbi_ctrl
+    100130: yanjingnan03changjing1_1:l_shangzui_ctrl
+    100132: yanjingnan03changjing1_1:l_shangzuijiao_ctrl
+    100134: yanjingnan03changjing1_1:l_xiamei_ctrl
+    100136: yanjingnan03changjing1_1:l_xiameigen_ctrl
+    100138: yanjingnan03changjing1_1:l_xiayan_ctrl
+    100140: yanjingnan03changjing1_1:l_xiazui_ctrl
+    100142: yanjingnan03changjing1_1:l_xiazuijiao_ctrl
+    100144: yanjingnan03changjing1_1:lazui_ctrl
+    100146: yanjingnan03changjing1_1:Lf_Arm1_jnt
+    100148: yanjingnan03changjing1_1:Lf_Arm2_jnt
+    100150: yanjingnan03changjing1_1:Lf_Arm3_jnt
+    100152: yanjingnan03changjing1_1:Lf_Arm4_jnt
+    100154: yanjingnan03changjing1_1:Lf_Arm5_jnt
+    100156: yanjingnan03changjing1_1:Lf_Arm6_jnt
+    100158: yanjingnan03changjing1_1:Lf_Arm7_jnt
+    100160: yanjingnan03changjing1_1:Lf_Arm8_jnt
+    100162: yanjingnan03changjing1_1:Lf_Arm9_jnt
+    100164: yanjingnan03changjing1_1:Lf_clavicle1_jnt
+    100166: yanjingnan03changjing1_1:Lf_clavicle2_jnt
+    100168: yanjingnan03changjing1_1:Lf_elbow_drv_jnt
+    100170: yanjingnan03changjing1_1:Lf_foot_drv
+    100172: yanjingnan03changjing1_1:Lf_index1_jnt
+    100174: yanjingnan03changjing1_1:Lf_index2_jnt
+    100176: yanjingnan03changjing1_1:Lf_index3_jnt
+    100178: yanjingnan03changjing1_1:Lf_index4_jnt
+    100180: yanjingnan03changjing1_1:Lf_indexRoot_jnt
+    100182: yanjingnan03changjing1_1:Lf_knee_drv_jnt
+    100184: yanjingnan03changjing1_1:Lf_Leg1_jnt
+    100186: yanjingnan03changjing1_1:Lf_Leg2_jnt
+    100188: yanjingnan03changjing1_1:Lf_Leg3_jnt
+    100190: yanjingnan03changjing1_1:Lf_Leg4_jnt
+    100192: yanjingnan03changjing1_1:Lf_Leg6_jnt
+    100194: yanjingnan03changjing1_1:Lf_Leg7_jnt
+    100196: yanjingnan03changjing1_1:Lf_Leg8_jnt
+    100198: yanjingnan03changjing1_1:Lf_Leg9_jnt
+    100200: yanjingnan03changjing1_1:Lf_leg_drv_jnt
+    100202: yanjingnan03changjing1_1:Lf_mid1_jnt
+    100204: yanjingnan03changjing1_1:Lf_mid2_jnt
+    100206: yanjingnan03changjing1_1:Lf_mid3_jnt
+    100208: yanjingnan03changjing1_1:Lf_mid4_jnt
+    100210: yanjingnan03changjing1_1:Lf_midRoot_jnt
+    100212: yanjingnan03changjing1_1:Lf_pinky1_jnt
+    100214: yanjingnan03changjing1_1:Lf_pinky2_jnt
+    100216: yanjingnan03changjing1_1:Lf_pinky3_jnt
+    100218: yanjingnan03changjing1_1:Lf_pinky4_jnt
+    100220: yanjingnan03changjing1_1:Lf_pinkyRoot_jnt
+    100222: yanjingnan03changjing1_1:Lf_ring1_jnt
+    100224: yanjingnan03changjing1_1:Lf_ring2_jnt
+    100226: yanjingnan03changjing1_1:Lf_ring3_jnt
+    100228: yanjingnan03changjing1_1:Lf_ring4_jnt
+    100230: yanjingnan03changjing1_1:Lf_ringRoot_jnt
+    100232: yanjingnan03changjing1_1:Lf_thumb1_jnt
+    100234: yanjingnan03changjing1_1:Lf_thumb2_jnt
+    100236: yanjingnan03changjing1_1:Lf_thumb3_jnt
+    100238: yanjingnan03changjing1_1:Lf_thumb4_jnt
+    100240: yanjingnan03changjing1_1:Lf_upArm_drv_jnt
+    100242: yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP
+    100244: yanjingnan03changjing1_1:LfArm_Elbow_FK
+    100246: yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP
+    100248: yanjingnan03changjing1_1:LfArm_UpArm_FK
+    100250: yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP
+    100252: yanjingnan03changjing1_1:LfArm_Wrist_FK
+    100254: yanjingnan03changjing1_1:LfArm_Wrist_FK_GRP
+    100256: yanjingnan03changjing1_1:Lfelbow_bend0_startJnt
+    100258: yanjingnan03changjing1_1:Lfknee_bend0_startJnt
+    100260: yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP
+    100262: yanjingnan03changjing1_1:Master
+    100264: yanjingnan03changjing1_1:mouse_SH
+    100266: yanjingnan03changjing1_1:nan_pang:extrudedSurface1
+    100268: yanjingnan03changjing1_1:nan_pang:extrudedSurface1 1
+    100270: yanjingnan03changjing1_1:nan_pang:polySurface468
+    100272: yanjingnan03changjing1_1:nan_pang:polySurface61
+    100274: yanjingnan03changjing1_1:nan_pang:polySurface61 1
+    100276: yanjingnan03changjing1_1:neck1_jnt
+    100278: yanjingnan03changjing1_1:neck2_jnt
+    100280: yanjingnan03changjing1_1:neck_doNotTouch_GRP
+    100282: yanjingnan03changjing1_1:neck_FK_ctrl
+    100284: yanjingnan03changjing1_1:neck_FK_ctrl_GRP
+    100286: yanjingnan03changjing1_1:neck_GRP
+    100288: yanjingnan03changjing1_1:neiyi1
+    100290: yanjingnan03changjing1_1:nurbsToPoly141
+    100292: yanjingnan03changjing1_1:orient_jaw_drv
+    100294: yanjingnan03changjing1_1:P_grp
+    100296: yanjingnan03changjing1_1:pasted__pCylinder7
+    100298: yanjingnan03changjing1_1:pasted__pCylinder8
+    100300: yanjingnan03changjing1_1:polySurface467
+    100302: yanjingnan03changjing1_1:polySurface469
+    100304: yanjingnan03changjing1_1:polySurface472
+    100306: yanjingnan03changjing1_1:polySurface473
+    100308: yanjingnan03changjing1_1:polySurface496
+    100310: yanjingnan03changjing1_1:polySurface508
+    100312: yanjingnan03changjing1_1:polySurface509
+    100314: yanjingnan03changjing1_1:polySurface511
+    100316: yanjingnan03changjing1_1:r_shangbiyan_ctrl
+    100318: yanjingnan03changjing1_1:r_shangmei_ctrl
+    100320: yanjingnan03changjing1_1:r_shangmeigen_ctrl
+    100322: yanjingnan03changjing1_1:r_shangyan_ctrl
+    100324: yanjingnan03changjing1_1:r_shangzui_ctrl
+    100326: yanjingnan03changjing1_1:r_shangzuijiao_ctrl
+    100328: yanjingnan03changjing1_1:r_xiamei_ctrl
+    100330: yanjingnan03changjing1_1:r_xiameigen_ctrl
+    100332: yanjingnan03changjing1_1:r_xiayan_ctrl
+    100334: yanjingnan03changjing1_1:r_xiayanbi_ctrl
+    100336: yanjingnan03changjing1_1:r_xiazui_ctrl
+    100338: yanjingnan03changjing1_1:r_xiazuijiao_ctrl
+    100340: yanjingnan03changjing1_1:root_waist_ikCtrl
+    100342: yanjingnan03changjing1_1:root_waist_ikCtrl_GRP
+    100344: yanjingnan03changjing1_1:Rt_Arm1_jnt
+    100346: yanjingnan03changjing1_1:Rt_Arm2_jnt
+    100348: yanjingnan03changjing1_1:Rt_Arm3_jnt
+    100350: yanjingnan03changjing1_1:Rt_Arm4_jnt
+    100352: yanjingnan03changjing1_1:Rt_Arm5_jnt
+    100354: yanjingnan03changjing1_1:Rt_Arm6_jnt
+    100356: yanjingnan03changjing1_1:Rt_Arm7_jnt
+    100358: yanjingnan03changjing1_1:Rt_Arm8_jnt
+    100360: yanjingnan03changjing1_1:Rt_Arm9_jnt
+    100362: yanjingnan03changjing1_1:Rt_clavicle1_jnt
+    100364: yanjingnan03changjing1_1:Rt_clavicle2_jnt
+    100366: yanjingnan03changjing1_1:Rt_elbow_drv_jnt
+    100368: yanjingnan03changjing1_1:Rt_foot_drv
+    100370: yanjingnan03changjing1_1:Rt_index1_jnt
+    100372: yanjingnan03changjing1_1:Rt_index2_jnt
+    100374: yanjingnan03changjing1_1:Rt_index3_jnt
+    100376: yanjingnan03changjing1_1:Rt_index4_jnt
+    100378: yanjingnan03changjing1_1:Rt_indexRoot_jnt
+    100380: yanjingnan03changjing1_1:Rt_knee_drv_jnt
+    100382: yanjingnan03changjing1_1:Rt_Leg1_jnt
+    100384: yanjingnan03changjing1_1:Rt_Leg2_jnt
+    100386: yanjingnan03changjing1_1:Rt_Leg3_jnt
+    100388: yanjingnan03changjing1_1:Rt_Leg4_jnt
+    100390: yanjingnan03changjing1_1:Rt_Leg6_jnt
+    100392: yanjingnan03changjing1_1:Rt_Leg7_jnt
+    100394: yanjingnan03changjing1_1:Rt_Leg8_jnt
+    100396: yanjingnan03changjing1_1:Rt_Leg9_jnt
+    100398: yanjingnan03changjing1_1:Rt_leg_drv_jnt
+    100400: yanjingnan03changjing1_1:Rt_mid1_jnt
+    100402: yanjingnan03changjing1_1:Rt_mid2_jnt
+    100404: yanjingnan03changjing1_1:Rt_mid3_jnt
+    100406: yanjingnan03changjing1_1:Rt_mid4_jnt
+    100408: yanjingnan03changjing1_1:Rt_midRoot_jnt
+    100410: yanjingnan03changjing1_1:Rt_pinky1_jnt
+    100412: yanjingnan03changjing1_1:Rt_pinky2_jnt
+    100414: yanjingnan03changjing1_1:Rt_pinky3_jnt
+    100416: yanjingnan03changjing1_1:Rt_pinky4_jnt
+    100418: yanjingnan03changjing1_1:Rt_pinkyRoot_jnt
+    100420: yanjingnan03changjing1_1:Rt_ring1_jnt
+    100422: yanjingnan03changjing1_1:Rt_ring2_jnt
+    100424: yanjingnan03changjing1_1:Rt_ring3_jnt
+    100426: yanjingnan03changjing1_1:Rt_ring4_jnt
+    100428: yanjingnan03changjing1_1:Rt_ringRoot_jnt
+    100430: yanjingnan03changjing1_1:Rt_thumb1_jnt
+    100432: yanjingnan03changjing1_1:Rt_thumb2_jnt
+    100434: yanjingnan03changjing1_1:Rt_thumb3_jnt
+    100436: yanjingnan03changjing1_1:Rt_thumb4_jnt
+    100438: yanjingnan03changjing1_1:Rt_upArm_drv_jnt
+    100440: yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP
+    100442: yanjingnan03changjing1_1:RtArm_UpArm_FK
+    100444: yanjingnan03changjing1_1:RtArm_UpArm_FK_GRP
+    100446: yanjingnan03changjing1_1:Rtelbow_bend0_startJnt
+    100448: yanjingnan03changjing1_1:Rtknee_bend0_startJnt
+    100450: yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP
+    100452: yanjingnan03changjing1_1:shangyi
+    100454: yanjingnan03changjing1_1:spline1_jnt
+    100456: yanjingnan03changjing1_1:spline2_jnt
+    100458: yanjingnan03changjing1_1:spline3_jnt
+    100460: yanjingnan03changjing1_1:spline4_jnt
+    100462: yanjingnan03changjing1_1:tou
+    100464: yanjingnan03changjing1_1:waist1_root
+    100466: yanjingnan03changjing1_1:waist_Ctrl
+    100468: yanjingnan03changjing1_1:waist_Ctrl_GRP
+    100470: yanjingnan03changjing1_1:waist_doNotTouch_GRP
+    100472: yanjingnan03changjing1_1:waist_GRP
+    100474: yanjingnan03changjing1_1:waistikCtrl_GRP
+    100476: yanjingnan03changjing1_1:xia_teeth
+    100478: yanjingnan03changjing1_1:xie_group
+    100480: yanjingnan03changjing1_1:xie_L
+    100482: yanjingnan03changjing1_1:xie_R
+    100484: yanjingnan03changjing1_1:zhangzui_ctrl
+    100486: yanjingnan03changjing1_1:zui_l_xia_ctrl
+    100488: yanjingnan03changjing1_1:zui_R_xia_ctrl
+    100490: yibai:pCube1
+    400000: kouzhao:polySurface1
+    400002: nurbsCircle1
+    400004: //RootNode
+    400006: yanjingnan03changjing1_1:bao:polySurface6
+    400008: yanjingnan03changjing1_1:blend_ctrl
+    400010: yanjingnan03changjing1_1:blend_curve
+    400012: yanjingnan03changjing1_1:Boy_B
+    400014: yanjingnan03changjing1_1:Boy_b 1
+    400016: yanjingnan03changjing1_1:boy_b_base
+    400018: yanjingnan03changjing1_1:boy_b_blend
+    400020: yanjingnan03changjing1_1:boy_b_ctrl
+    400022: yanjingnan03changjing1_1:Character
+    400024: yanjingnan03changjing1_1:chest2_jnt
+    400026: yanjingnan03changjing1_1:chest3_jnt
+    400028: yanjingnan03changjing1_1:curve_end_SkinJoint_waist
+    400030: yanjingnan03changjing1_1:duzui_ctrl
+    400032: yanjingnan03changjing1_1:group290
+    400034: yanjingnan03changjing1_1:group291
+    400036: yanjingnan03changjing1_1:group292
+    400038: yanjingnan03changjing1_1:group293
+    400040: yanjingnan03changjing1_1:group294
+    400042: yanjingnan03changjing1_1:group295
+    400044: yanjingnan03changjing1_1:group297
+    400046: yanjingnan03changjing1_1:group298
+    400048: yanjingnan03changjing1_1:group299
+    400050: yanjingnan03changjing1_1:group300
+    400052: yanjingnan03changjing1_1:group301
+    400054: yanjingnan03changjing1_1:group302
+    400056: yanjingnan03changjing1_1:group303
+    400058: yanjingnan03changjing1_1:group304
+    400060: yanjingnan03changjing1_1:group305
+    400062: yanjingnan03changjing1_1:group306
+    400064: yanjingnan03changjing1_1:group307
+    400066: yanjingnan03changjing1_1:group308
+    400068: yanjingnan03changjing1_1:group309
+    400070: yanjingnan03changjing1_1:group310
+    400072: yanjingnan03changjing1_1:group311
+    400074: yanjingnan03changjing1_1:group312
+    400076: yanjingnan03changjing1_1:group313
+    400078: yanjingnan03changjing1_1:group314
+    400080: yanjingnan03changjing1_1:group315
+    400082: yanjingnan03changjing1_1:group316
+    400084: yanjingnan03changjing1_1:group317
+    400086: yanjingnan03changjing1_1:group318
+    400088: yanjingnan03changjing1_1:group319
+    400090: yanjingnan03changjing1_1:group320
+    400092: yanjingnan03changjing1_1:group321
+    400094: yanjingnan03changjing1_1:hand
+    400096: yanjingnan03changjing1_1:head
+    400098: yanjingnan03changjing1_1:head_animGRP_Loc
+    400100: yanjingnan03changjing1_1:head_b
+    400102: yanjingnan03changjing1_1:head_BS
+    400104: yanjingnan03changjing1_1:head_BS 1
+    400106: yanjingnan03changjing1_1:head_ctrl
+    400108: yanjingnan03changjing1_1:head_ctrl_GRP
+    400110: yanjingnan03changjing1_1:head_jawLow_jnt
+    400112: yanjingnan03changjing1_1:head_jawUp_jnt
+    400114: yanjingnan03changjing1_1:head_jnt
+    400116: yanjingnan03changjing1_1:kou
+    400118: yanjingnan03changjing1_1:kuzi
+    400120: yanjingnan03changjing1_1:l_shangbiyan_ctrl
+    400122: yanjingnan03changjing1_1:l_shangmei_ctrl
+    400124: yanjingnan03changjing1_1:l_shangmeigen_ctrl
+    400126: yanjingnan03changjing1_1:l_shangyan_ctrl
+    400128: yanjingnan03changjing1_1:l_shangyanbi_ctrl
+    400130: yanjingnan03changjing1_1:l_shangzui_ctrl
+    400132: yanjingnan03changjing1_1:l_shangzuijiao_ctrl
+    400134: yanjingnan03changjing1_1:l_xiamei_ctrl
+    400136: yanjingnan03changjing1_1:l_xiameigen_ctrl
+    400138: yanjingnan03changjing1_1:l_xiayan_ctrl
+    400140: yanjingnan03changjing1_1:l_xiazui_ctrl
+    400142: yanjingnan03changjing1_1:l_xiazuijiao_ctrl
+    400144: yanjingnan03changjing1_1:lazui_ctrl
+    400146: yanjingnan03changjing1_1:Lf_Arm1_jnt
+    400148: yanjingnan03changjing1_1:Lf_Arm2_jnt
+    400150: yanjingnan03changjing1_1:Lf_Arm3_jnt
+    400152: yanjingnan03changjing1_1:Lf_Arm4_jnt
+    400154: yanjingnan03changjing1_1:Lf_Arm5_jnt
+    400156: yanjingnan03changjing1_1:Lf_Arm6_jnt
+    400158: yanjingnan03changjing1_1:Lf_Arm7_jnt
+    400160: yanjingnan03changjing1_1:Lf_Arm8_jnt
+    400162: yanjingnan03changjing1_1:Lf_Arm9_jnt
+    400164: yanjingnan03changjing1_1:Lf_clavicle1_jnt
+    400166: yanjingnan03changjing1_1:Lf_clavicle2_jnt
+    400168: yanjingnan03changjing1_1:Lf_elbow_drv_jnt
+    400170: yanjingnan03changjing1_1:Lf_foot_drv
+    400172: yanjingnan03changjing1_1:Lf_index1_jnt
+    400174: yanjingnan03changjing1_1:Lf_index2_jnt
+    400176: yanjingnan03changjing1_1:Lf_index3_jnt
+    400178: yanjingnan03changjing1_1:Lf_index4_jnt
+    400180: yanjingnan03changjing1_1:Lf_indexRoot_jnt
+    400182: yanjingnan03changjing1_1:Lf_knee_drv_jnt
+    400184: yanjingnan03changjing1_1:Lf_Leg1_jnt
+    400186: yanjingnan03changjing1_1:Lf_Leg2_jnt
+    400188: yanjingnan03changjing1_1:Lf_Leg3_jnt
+    400190: yanjingnan03changjing1_1:Lf_Leg4_jnt
+    400192: yanjingnan03changjing1_1:Lf_Leg6_jnt
+    400194: yanjingnan03changjing1_1:Lf_Leg7_jnt
+    400196: yanjingnan03changjing1_1:Lf_Leg8_jnt
+    400198: yanjingnan03changjing1_1:Lf_Leg9_jnt
+    400200: yanjingnan03changjing1_1:Lf_leg_drv_jnt
+    400202: yanjingnan03changjing1_1:Lf_mid1_jnt
+    400204: yanjingnan03changjing1_1:Lf_mid2_jnt
+    400206: yanjingnan03changjing1_1:Lf_mid3_jnt
+    400208: yanjingnan03changjing1_1:Lf_mid4_jnt
+    400210: yanjingnan03changjing1_1:Lf_midRoot_jnt
+    400212: yanjingnan03changjing1_1:Lf_pinky1_jnt
+    400214: yanjingnan03changjing1_1:Lf_pinky2_jnt
+    400216: yanjingnan03changjing1_1:Lf_pinky3_jnt
+    400218: yanjingnan03changjing1_1:Lf_pinky4_jnt
+    400220: yanjingnan03changjing1_1:Lf_pinkyRoot_jnt
+    400222: yanjingnan03changjing1_1:Lf_ring1_jnt
+    400224: yanjingnan03changjing1_1:Lf_ring2_jnt
+    400226: yanjingnan03changjing1_1:Lf_ring3_jnt
+    400228: yanjingnan03changjing1_1:Lf_ring4_jnt
+    400230: yanjingnan03changjing1_1:Lf_ringRoot_jnt
+    400232: yanjingnan03changjing1_1:Lf_thumb1_jnt
+    400234: yanjingnan03changjing1_1:Lf_thumb2_jnt
+    400236: yanjingnan03changjing1_1:Lf_thumb3_jnt
+    400238: yanjingnan03changjing1_1:Lf_thumb4_jnt
+    400240: yanjingnan03changjing1_1:Lf_upArm_drv_jnt
+    400242: yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP
+    400244: yanjingnan03changjing1_1:LfArm_Elbow_FK
+    400246: yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP
+    400248: yanjingnan03changjing1_1:LfArm_UpArm_FK
+    400250: yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP
+    400252: yanjingnan03changjing1_1:LfArm_Wrist_FK
+    400254: yanjingnan03changjing1_1:LfArm_Wrist_FK_GRP
+    400256: yanjingnan03changjing1_1:Lfelbow_bend0_startJnt
+    400258: yanjingnan03changjing1_1:Lfknee_bend0_startJnt
+    400260: yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP
+    400262: yanjingnan03changjing1_1:Master
+    400264: yanjingnan03changjing1_1:mouse_SH
+    400266: yanjingnan03changjing1_1:nan_pang:extrudedSurface1
+    400268: yanjingnan03changjing1_1:nan_pang:extrudedSurface1 1
+    400270: yanjingnan03changjing1_1:nan_pang:polySurface468
+    400272: yanjingnan03changjing1_1:nan_pang:polySurface61
+    400274: yanjingnan03changjing1_1:nan_pang:polySurface61 1
+    400276: yanjingnan03changjing1_1:neck1_jnt
+    400278: yanjingnan03changjing1_1:neck2_jnt
+    400280: yanjingnan03changjing1_1:neck_doNotTouch_GRP
+    400282: yanjingnan03changjing1_1:neck_FK_ctrl
+    400284: yanjingnan03changjing1_1:neck_FK_ctrl_GRP
+    400286: yanjingnan03changjing1_1:neck_GRP
+    400288: yanjingnan03changjing1_1:neiyi1
+    400290: yanjingnan03changjing1_1:nurbsToPoly141
+    400292: yanjingnan03changjing1_1:orient_jaw_drv
+    400294: yanjingnan03changjing1_1:P_grp
+    400296: yanjingnan03changjing1_1:pasted__pCylinder7
+    400298: yanjingnan03changjing1_1:pasted__pCylinder8
+    400300: yanjingnan03changjing1_1:polySurface467
+    400302: yanjingnan03changjing1_1:polySurface469
+    400304: yanjingnan03changjing1_1:polySurface472
+    400306: yanjingnan03changjing1_1:polySurface473
+    400308: yanjingnan03changjing1_1:polySurface496
+    400310: yanjingnan03changjing1_1:polySurface508
+    400312: yanjingnan03changjing1_1:polySurface509
+    400314: yanjingnan03changjing1_1:polySurface511
+    400316: yanjingnan03changjing1_1:r_shangbiyan_ctrl
+    400318: yanjingnan03changjing1_1:r_shangmei_ctrl
+    400320: yanjingnan03changjing1_1:r_shangmeigen_ctrl
+    400322: yanjingnan03changjing1_1:r_shangyan_ctrl
+    400324: yanjingnan03changjing1_1:r_shangzui_ctrl
+    400326: yanjingnan03changjing1_1:r_shangzuijiao_ctrl
+    400328: yanjingnan03changjing1_1:r_xiamei_ctrl
+    400330: yanjingnan03changjing1_1:r_xiameigen_ctrl
+    400332: yanjingnan03changjing1_1:r_xiayan_ctrl
+    400334: yanjingnan03changjing1_1:r_xiayanbi_ctrl
+    400336: yanjingnan03changjing1_1:r_xiazui_ctrl
+    400338: yanjingnan03changjing1_1:r_xiazuijiao_ctrl
+    400340: yanjingnan03changjing1_1:root_waist_ikCtrl
+    400342: yanjingnan03changjing1_1:root_waist_ikCtrl_GRP
+    400344: yanjingnan03changjing1_1:Rt_Arm1_jnt
+    400346: yanjingnan03changjing1_1:Rt_Arm2_jnt
+    400348: yanjingnan03changjing1_1:Rt_Arm3_jnt
+    400350: yanjingnan03changjing1_1:Rt_Arm4_jnt
+    400352: yanjingnan03changjing1_1:Rt_Arm5_jnt
+    400354: yanjingnan03changjing1_1:Rt_Arm6_jnt
+    400356: yanjingnan03changjing1_1:Rt_Arm7_jnt
+    400358: yanjingnan03changjing1_1:Rt_Arm8_jnt
+    400360: yanjingnan03changjing1_1:Rt_Arm9_jnt
+    400362: yanjingnan03changjing1_1:Rt_clavicle1_jnt
+    400364: yanjingnan03changjing1_1:Rt_clavicle2_jnt
+    400366: yanjingnan03changjing1_1:Rt_elbow_drv_jnt
+    400368: yanjingnan03changjing1_1:Rt_foot_drv
+    400370: yanjingnan03changjing1_1:Rt_index1_jnt
+    400372: yanjingnan03changjing1_1:Rt_index2_jnt
+    400374: yanjingnan03changjing1_1:Rt_index3_jnt
+    400376: yanjingnan03changjing1_1:Rt_index4_jnt
+    400378: yanjingnan03changjing1_1:Rt_indexRoot_jnt
+    400380: yanjingnan03changjing1_1:Rt_knee_drv_jnt
+    400382: yanjingnan03changjing1_1:Rt_Leg1_jnt
+    400384: yanjingnan03changjing1_1:Rt_Leg2_jnt
+    400386: yanjingnan03changjing1_1:Rt_Leg3_jnt
+    400388: yanjingnan03changjing1_1:Rt_Leg4_jnt
+    400390: yanjingnan03changjing1_1:Rt_Leg6_jnt
+    400392: yanjingnan03changjing1_1:Rt_Leg7_jnt
+    400394: yanjingnan03changjing1_1:Rt_Leg8_jnt
+    400396: yanjingnan03changjing1_1:Rt_Leg9_jnt
+    400398: yanjingnan03changjing1_1:Rt_leg_drv_jnt
+    400400: yanjingnan03changjing1_1:Rt_mid1_jnt
+    400402: yanjingnan03changjing1_1:Rt_mid2_jnt
+    400404: yanjingnan03changjing1_1:Rt_mid3_jnt
+    400406: yanjingnan03changjing1_1:Rt_mid4_jnt
+    400408: yanjingnan03changjing1_1:Rt_midRoot_jnt
+    400410: yanjingnan03changjing1_1:Rt_pinky1_jnt
+    400412: yanjingnan03changjing1_1:Rt_pinky2_jnt
+    400414: yanjingnan03changjing1_1:Rt_pinky3_jnt
+    400416: yanjingnan03changjing1_1:Rt_pinky4_jnt
+    400418: yanjingnan03changjing1_1:Rt_pinkyRoot_jnt
+    400420: yanjingnan03changjing1_1:Rt_ring1_jnt
+    400422: yanjingnan03changjing1_1:Rt_ring2_jnt
+    400424: yanjingnan03changjing1_1:Rt_ring3_jnt
+    400426: yanjingnan03changjing1_1:Rt_ring4_jnt
+    400428: yanjingnan03changjing1_1:Rt_ringRoot_jnt
+    400430: yanjingnan03changjing1_1:Rt_thumb1_jnt
+    400432: yanjingnan03changjing1_1:Rt_thumb2_jnt
+    400434: yanjingnan03changjing1_1:Rt_thumb3_jnt
+    400436: yanjingnan03changjing1_1:Rt_thumb4_jnt
+    400438: yanjingnan03changjing1_1:Rt_upArm_drv_jnt
+    400440: yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP
+    400442: yanjingnan03changjing1_1:RtArm_UpArm_FK
+    400444: yanjingnan03changjing1_1:RtArm_UpArm_FK_GRP
+    400446: yanjingnan03changjing1_1:Rtelbow_bend0_startJnt
+    400448: yanjingnan03changjing1_1:Rtknee_bend0_startJnt
+    400450: yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP
+    400452: yanjingnan03changjing1_1:shangyi
+    400454: yanjingnan03changjing1_1:spline1_jnt
+    400456: yanjingnan03changjing1_1:spline2_jnt
+    400458: yanjingnan03changjing1_1:spline3_jnt
+    400460: yanjingnan03changjing1_1:spline4_jnt
+    400462: yanjingnan03changjing1_1:tou
+    400464: yanjingnan03changjing1_1:waist1_root
+    400466: yanjingnan03changjing1_1:waist_Ctrl
+    400468: yanjingnan03changjing1_1:waist_Ctrl_GRP
+    400470: yanjingnan03changjing1_1:waist_doNotTouch_GRP
+    400472: yanjingnan03changjing1_1:waist_GRP
+    400474: yanjingnan03changjing1_1:waistikCtrl_GRP
+    400476: yanjingnan03changjing1_1:xia_teeth
+    400478: yanjingnan03changjing1_1:xie_group
+    400480: yanjingnan03changjing1_1:xie_L
+    400482: yanjingnan03changjing1_1:xie_R
+    400484: yanjingnan03changjing1_1:zhangzui_ctrl
+    400486: yanjingnan03changjing1_1:zui_l_xia_ctrl
+    400488: yanjingnan03changjing1_1:zui_R_xia_ctrl
+    400490: yibai:pCube1
+    2300000: kouzhao:polySurface1
+    2300002: yanjingnan03changjing1_1:bao:polySurface6
+    2300004: yanjingnan03changjing1_1:pasted__pCylinder8
+    2300006: yibai:pCube1
+    3300000: kouzhao:polySurface1
+    3300002: yanjingnan03changjing1_1:bao:polySurface6
+    3300004: yanjingnan03changjing1_1:pasted__pCylinder8
+    3300006: yibai:pCube1
+    4300000: yanjingnan03changjing1_1:nan_pang:polySurface468
+    4300002: yanjingnan03changjing1_1:polySurface467
+    4300004: yanjingnan03changjing1_1:polySurface469
+    4300006: yanjingnan03changjing1_1:nan_pang:polySurface61
+    4300008: yanjingnan03changjing1_1:nan_pang:polySurface61
+    4300010: yanjingnan03changjing1_1:tou
+    4300012: kouzhao:polySurface1
+    4300014: yibai:pCube1
+    4300016: yanjingnan03changjing1_1:bao:polySurface6
+    4300018: yanjingnan03changjing1_1:polySurface508
+    4300020: yanjingnan03changjing1_1:polySurface509
+    4300022: yanjingnan03changjing1_1:polySurface473
+    4300024: yanjingnan03changjing1_1:polySurface496
+    4300026: yanjingnan03changjing1_1:pasted__pCylinder7
+    4300028: yanjingnan03changjing1_1:pasted__pCylinder8
+    4300030: yanjingnan03changjing1_1:nurbsToPoly141
+    4300032: yanjingnan03changjing1_1:polySurface511
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: yanjingnan03changjing1_1:nan_pang:polySurface468
+    13700002: yanjingnan03changjing1_1:nan_pang:polySurface61
+    13700004: yanjingnan03changjing1_1:nan_pang:polySurface61 1
+    13700006: yanjingnan03changjing1_1:nurbsToPoly141
+    13700008: yanjingnan03changjing1_1:pasted__pCylinder7
+    13700010: yanjingnan03changjing1_1:polySurface467
+    13700012: yanjingnan03changjing1_1:polySurface469
+    13700014: yanjingnan03changjing1_1:polySurface473
+    13700016: yanjingnan03changjing1_1:polySurface496
+    13700018: yanjingnan03changjing1_1:polySurface508
+    13700020: yanjingnan03changjing1_1:polySurface509
+    13700022: yanjingnan03changjing1_1:polySurface511
+    13700024: yanjingnan03changjing1_1:tou
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 110
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:Boy_b 1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:Boy_b 1/yanjingnan03changjing1_1:Boy_B
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:Boy_b 1/yanjingnan03changjing1_1:Boy_B/yanjingnan03changjing1_1:head_b
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:Boy_b 1/yanjingnan03changjing1_1:Boy_B/yanjingnan03changjing1_1:head_b/yanjingnan03changjing1_1:head
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:Boy_b 1/yanjingnan03changjing1_1:Boy_B/yanjingnan03changjing1_1:head_b/yanjingnan03changjing1_1:head/yanjingnan03changjing1_1:tou
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:hand
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:hand/yanjingnan03changjing1_1:polySurface469
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:kuzi
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:kuzi/yanjingnan03changjing1_1:nan_pang:polySurface468
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:neiyi1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:neiyi1/yanjingnan03changjing1_1:polySurface472
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:shangyi
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:shangyi/yanjingnan03changjing1_1:polySurface467
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group/yanjingnan03changjing1_1:xie_L
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group/yanjingnan03changjing1_1:xie_L/yanjingnan03changjing1_1:nan_pang:extrudedSurface1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group/yanjingnan03changjing1_1:xie_L/yanjingnan03changjing1_1:nan_pang:polySurface61
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group/yanjingnan03changjing1_1:xie_R
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group/yanjingnan03changjing1_1:xie_R/yanjingnan03changjing1_1:nan_pang:extrudedSurface1
+          1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_base/yanjingnan03changjing1_1:xie_group/yanjingnan03changjing1_1:xie_R/yanjingnan03changjing1_1:nan_pang:polySurface61
+          1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_blend
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_blend/yanjingnan03changjing1_1:head_BS
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_blend/yanjingnan03changjing1_1:head_BS/yanjingnan03changjing1_1:head_BS
+          1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group290
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group290/yanjingnan03changjing1_1:mouse_SH
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group291
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group291/yanjingnan03changjing1_1:zhangzui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group292
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group292/yanjingnan03changjing1_1:duzui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group293
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group293/yanjingnan03changjing1_1:lazui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group294
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group294/yanjingnan03changjing1_1:zui_R_xia_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group295
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group295/yanjingnan03changjing1_1:zui_l_xia_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group297
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group297/yanjingnan03changjing1_1:r_xiazui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group298
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group298/yanjingnan03changjing1_1:l_xiazui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group299
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group299/yanjingnan03changjing1_1:r_shangzuijiao_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group300
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group300/yanjingnan03changjing1_1:l_shangzuijiao_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group301
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group301/yanjingnan03changjing1_1:r_shangzui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group302
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group302/yanjingnan03changjing1_1:l_shangzui_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group303
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group303/yanjingnan03changjing1_1:r_xiazuijiao_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group304
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group304/yanjingnan03changjing1_1:l_xiazuijiao_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group305
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group305/yanjingnan03changjing1_1:r_shangbiyan_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group306
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group306/yanjingnan03changjing1_1:r_xiayan_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group307
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group307/yanjingnan03changjing1_1:r_shangyan_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group308
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group308/yanjingnan03changjing1_1:r_xiayanbi_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group309
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group309/yanjingnan03changjing1_1:l_shangbiyan_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group310
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group310/yanjingnan03changjing1_1:l_xiayan_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group311
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group311/yanjingnan03changjing1_1:l_shangyan_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group312
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group312/yanjingnan03changjing1_1:l_shangyanbi_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group313
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group313/yanjingnan03changjing1_1:r_xiameigen_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group314
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group314/yanjingnan03changjing1_1:r_shangmeigen_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group315
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group315/yanjingnan03changjing1_1:r_shangmei_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group316
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group316/yanjingnan03changjing1_1:r_xiamei_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group317
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group317/yanjingnan03changjing1_1:l_xiameigen_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group318
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group318/yanjingnan03changjing1_1:l_shangmeigen_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group319
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group319/yanjingnan03changjing1_1:l_shangmei_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group320
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:blend_ctrl/yanjingnan03changjing1_1:blend_curve/yanjingnan03changjing1_1:group320/yanjingnan03changjing1_1:l_xiamei_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc/yanjingnan03changjing1_1:head_ctrl_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc/yanjingnan03changjing1_1:head_ctrl_GRP/yanjingnan03changjing1_1:head_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc/yanjingnan03changjing1_1:head_ctrl_GRP/yanjingnan03changjing1_1:head_ctrl/yanjingnan03changjing1_1:head_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc/yanjingnan03changjing1_1:head_ctrl_GRP/yanjingnan03changjing1_1:head_ctrl/yanjingnan03changjing1_1:head_jnt/yanjingnan03changjing1_1:orient_jaw_drv
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc/yanjingnan03changjing1_1:head_ctrl_GRP/yanjingnan03changjing1_1:head_ctrl/yanjingnan03changjing1_1:head_jnt/yanjingnan03changjing1_1:orient_jaw_drv/yanjingnan03changjing1_1:head_jawLow_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:head_animGRP_Loc/yanjingnan03changjing1_1:head_ctrl_GRP/yanjingnan03changjing1_1:head_ctrl/yanjingnan03changjing1_1:head_jnt/yanjingnan03changjing1_1:orient_jaw_drv/yanjingnan03changjing1_1:head_jawUp_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:neck_doNotTouch_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:neck_doNotTouch_GRP/yanjingnan03changjing1_1:neck1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:neck_doNotTouch_GRP/yanjingnan03changjing1_1:neck1_jnt/yanjingnan03changjing1_1:neck2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:neck_FK_ctrl_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:neck_FK_ctrl_GRP/yanjingnan03changjing1_1:neck_FK_ctrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:chest3_jnt/yanjingnan03changjing1_1:neck_GRP/yanjingnan03changjing1_1:neck_FK_ctrl_GRP/yanjingnan03changjing1_1:neck_FK_ctrl/kouzhao:polySurface1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_Arm1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_Arm1_jnt/yanjingnan03changjing1_1:Lf_Arm2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_Arm1_jnt/yanjingnan03changjing1_1:Lf_Arm2_jnt/yanjingnan03changjing1_1:Lf_Arm3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_Arm1_jnt/yanjingnan03changjing1_1:Lf_Arm2_jnt/yanjingnan03changjing1_1:Lf_Arm3_jnt/yanjingnan03changjing1_1:Lf_Arm4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_Arm5_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_indexRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_indexRoot_jnt/yanjingnan03changjing1_1:Lf_index1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_indexRoot_jnt/yanjingnan03changjing1_1:Lf_index1_jnt/yanjingnan03changjing1_1:Lf_index2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_indexRoot_jnt/yanjingnan03changjing1_1:Lf_index1_jnt/yanjingnan03changjing1_1:Lf_index2_jnt/yanjingnan03changjing1_1:Lf_index3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_indexRoot_jnt/yanjingnan03changjing1_1:Lf_index1_jnt/yanjingnan03changjing1_1:Lf_index2_jnt/yanjingnan03changjing1_1:Lf_index3_jnt/yanjingnan03changjing1_1:Lf_index4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_midRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_midRoot_jnt/yanjingnan03changjing1_1:Lf_mid1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_midRoot_jnt/yanjingnan03changjing1_1:Lf_mid1_jnt/yanjingnan03changjing1_1:Lf_mid2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_midRoot_jnt/yanjingnan03changjing1_1:Lf_mid1_jnt/yanjingnan03changjing1_1:Lf_mid2_jnt/yanjingnan03changjing1_1:Lf_mid3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_midRoot_jnt/yanjingnan03changjing1_1:Lf_mid1_jnt/yanjingnan03changjing1_1:Lf_mid2_jnt/yanjingnan03changjing1_1:Lf_mid3_jnt/yanjingnan03changjing1_1:Lf_mid4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_pinkyRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_pinkyRoot_jnt/yanjingnan03changjing1_1:Lf_pinky1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_pinkyRoot_jnt/yanjingnan03changjing1_1:Lf_pinky1_jnt/yanjingnan03changjing1_1:Lf_pinky2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_pinkyRoot_jnt/yanjingnan03changjing1_1:Lf_pinky1_jnt/yanjingnan03changjing1_1:Lf_pinky2_jnt/yanjingnan03changjing1_1:Lf_pinky3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_pinkyRoot_jnt/yanjingnan03changjing1_1:Lf_pinky1_jnt/yanjingnan03changjing1_1:Lf_pinky2_jnt/yanjingnan03changjing1_1:Lf_pinky3_jnt/yanjingnan03changjing1_1:Lf_pinky4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_ringRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_ringRoot_jnt/yanjingnan03changjing1_1:Lf_ring1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_ringRoot_jnt/yanjingnan03changjing1_1:Lf_ring1_jnt/yanjingnan03changjing1_1:Lf_ring2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_ringRoot_jnt/yanjingnan03changjing1_1:Lf_ring1_jnt/yanjingnan03changjing1_1:Lf_ring2_jnt/yanjingnan03changjing1_1:Lf_ring3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_ringRoot_jnt/yanjingnan03changjing1_1:Lf_ring1_jnt/yanjingnan03changjing1_1:Lf_ring2_jnt/yanjingnan03changjing1_1:Lf_ring3_jnt/yanjingnan03changjing1_1:Lf_ring4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_thumb1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_thumb1_jnt/yanjingnan03changjing1_1:Lf_thumb2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_thumb1_jnt/yanjingnan03changjing1_1:Lf_thumb2_jnt/yanjingnan03changjing1_1:Lf_thumb3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lf_Arm9_jnt/yanjingnan03changjing1_1:Lf_thumb1_jnt/yanjingnan03changjing1_1:Lf_thumb2_jnt/yanjingnan03changjing1_1:Lf_thumb3_jnt/yanjingnan03changjing1_1:Lf_thumb4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lfelbow_bend0_startJnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lfelbow_bend0_startJnt/yanjingnan03changjing1_1:Lf_Arm6_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lfelbow_bend0_startJnt/yanjingnan03changjing1_1:Lf_Arm6_jnt/yanjingnan03changjing1_1:Lf_Arm7_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_upArm_drv_jnt/yanjingnan03changjing1_1:Lf_elbow_drv_jnt/yanjingnan03changjing1_1:Lfelbow_bend0_startJnt/yanjingnan03changjing1_1:Lf_Arm6_jnt/yanjingnan03changjing1_1:Lf_Arm7_jnt/yanjingnan03changjing1_1:Lf_Arm8_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK/yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK/yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP/yanjingnan03changjing1_1:LfArm_Elbow_FK
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK/yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP/yanjingnan03changjing1_1:LfArm_Elbow_FK/yanjingnan03changjing1_1:LfArm_Wrist_FK_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK/yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP/yanjingnan03changjing1_1:LfArm_Elbow_FK/yanjingnan03changjing1_1:LfArm_Wrist_FK_GRP/yanjingnan03changjing1_1:LfArm_Wrist_FK
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK/yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP/yanjingnan03changjing1_1:LfArm_Elbow_FK/yanjingnan03changjing1_1:LfArm_Wrist_FK_GRP/yanjingnan03changjing1_1:LfArm_Wrist_FK/nurbsCircle1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Lf_clavicle1_jnt/yanjingnan03changjing1_1:Lf_clavicle2_jnt/yanjingnan03changjing1_1:LfArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK_GRP/yanjingnan03changjing1_1:LfArm_UpArm_FK/yanjingnan03changjing1_1:LfArm_Elbow_FK_GRP/yanjingnan03changjing1_1:LfArm_Elbow_FK/yanjingnan03changjing1_1:LfArm_Wrist_FK_GRP/yanjingnan03changjing1_1:LfArm_Wrist_FK/nurbsCircle1/yibai:pCube1
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_Arm1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_Arm1_jnt/yanjingnan03changjing1_1:Rt_Arm2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_Arm1_jnt/yanjingnan03changjing1_1:Rt_Arm2_jnt/yanjingnan03changjing1_1:Rt_Arm3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_Arm1_jnt/yanjingnan03changjing1_1:Rt_Arm2_jnt/yanjingnan03changjing1_1:Rt_Arm3_jnt/yanjingnan03changjing1_1:Rt_Arm4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_Arm5_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_indexRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_indexRoot_jnt/yanjingnan03changjing1_1:Rt_index1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_indexRoot_jnt/yanjingnan03changjing1_1:Rt_index1_jnt/yanjingnan03changjing1_1:Rt_index2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_indexRoot_jnt/yanjingnan03changjing1_1:Rt_index1_jnt/yanjingnan03changjing1_1:Rt_index2_jnt/yanjingnan03changjing1_1:Rt_index3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_indexRoot_jnt/yanjingnan03changjing1_1:Rt_index1_jnt/yanjingnan03changjing1_1:Rt_index2_jnt/yanjingnan03changjing1_1:Rt_index3_jnt/yanjingnan03changjing1_1:Rt_index4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_midRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_midRoot_jnt/yanjingnan03changjing1_1:Rt_mid1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_midRoot_jnt/yanjingnan03changjing1_1:Rt_mid1_jnt/yanjingnan03changjing1_1:Rt_mid2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_midRoot_jnt/yanjingnan03changjing1_1:Rt_mid1_jnt/yanjingnan03changjing1_1:Rt_mid2_jnt/yanjingnan03changjing1_1:Rt_mid3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_midRoot_jnt/yanjingnan03changjing1_1:Rt_mid1_jnt/yanjingnan03changjing1_1:Rt_mid2_jnt/yanjingnan03changjing1_1:Rt_mid3_jnt/yanjingnan03changjing1_1:Rt_mid4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_pinkyRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_pinkyRoot_jnt/yanjingnan03changjing1_1:Rt_pinky1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_pinkyRoot_jnt/yanjingnan03changjing1_1:Rt_pinky1_jnt/yanjingnan03changjing1_1:Rt_pinky2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_pinkyRoot_jnt/yanjingnan03changjing1_1:Rt_pinky1_jnt/yanjingnan03changjing1_1:Rt_pinky2_jnt/yanjingnan03changjing1_1:Rt_pinky3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_pinkyRoot_jnt/yanjingnan03changjing1_1:Rt_pinky1_jnt/yanjingnan03changjing1_1:Rt_pinky2_jnt/yanjingnan03changjing1_1:Rt_pinky3_jnt/yanjingnan03changjing1_1:Rt_pinky4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_ringRoot_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_ringRoot_jnt/yanjingnan03changjing1_1:Rt_ring1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_ringRoot_jnt/yanjingnan03changjing1_1:Rt_ring1_jnt/yanjingnan03changjing1_1:Rt_ring2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_ringRoot_jnt/yanjingnan03changjing1_1:Rt_ring1_jnt/yanjingnan03changjing1_1:Rt_ring2_jnt/yanjingnan03changjing1_1:Rt_ring3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_ringRoot_jnt/yanjingnan03changjing1_1:Rt_ring1_jnt/yanjingnan03changjing1_1:Rt_ring2_jnt/yanjingnan03changjing1_1:Rt_ring3_jnt/yanjingnan03changjing1_1:Rt_ring4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_thumb1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_thumb1_jnt/yanjingnan03changjing1_1:Rt_thumb2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_thumb1_jnt/yanjingnan03changjing1_1:Rt_thumb2_jnt/yanjingnan03changjing1_1:Rt_thumb3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rt_Arm9_jnt/yanjingnan03changjing1_1:Rt_thumb1_jnt/yanjingnan03changjing1_1:Rt_thumb2_jnt/yanjingnan03changjing1_1:Rt_thumb3_jnt/yanjingnan03changjing1_1:Rt_thumb4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rtelbow_bend0_startJnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rtelbow_bend0_startJnt/yanjingnan03changjing1_1:Rt_Arm6_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rtelbow_bend0_startJnt/yanjingnan03changjing1_1:Rt_Arm6_jnt/yanjingnan03changjing1_1:Rt_Arm7_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_upArm_drv_jnt/yanjingnan03changjing1_1:Rt_elbow_drv_jnt/yanjingnan03changjing1_1:Rtelbow_bend0_startJnt/yanjingnan03changjing1_1:Rt_Arm6_jnt/yanjingnan03changjing1_1:Rt_Arm7_jnt/yanjingnan03changjing1_1:Rt_Arm8_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:RtArm_UpArm_FK_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:RtArm_UpArm_FK_GRP/yanjingnan03changjing1_1:RtArm_UpArm_FK
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:curve_end_SkinJoint_waist/yanjingnan03changjing1_1:spline4_jnt/yanjingnan03changjing1_1:chest2_jnt/yanjingnan03changjing1_1:Rt_clavicle1_jnt/yanjingnan03changjing1_1:Rt_clavicle2_jnt/yanjingnan03changjing1_1:RtArm_ALL_CTRL_GRP/yanjingnan03changjing1_1:RtArm_UpArm_FK_GRP/yanjingnan03changjing1_1:RtArm_UpArm_FK/yanjingnan03changjing1_1:bao:polySurface6
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:spline1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:waist1_root
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:waist1_root/yanjingnan03changjing1_1:spline2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waist_doNotTouch_GRP/yanjingnan03changjing1_1:waist1_root/yanjingnan03changjing1_1:spline2_jnt/yanjingnan03changjing1_1:spline3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt/yanjingnan03changjing1_1:Lf_Leg9_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt/yanjingnan03changjing1_1:Lf_Leg9_jnt/yanjingnan03changjing1_1:Lf_foot_drv
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt/yanjingnan03changjing1_1:Lfknee_bend0_startJnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt/yanjingnan03changjing1_1:Lfknee_bend0_startJnt/yanjingnan03changjing1_1:Lf_Leg6_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt/yanjingnan03changjing1_1:Lfknee_bend0_startJnt/yanjingnan03changjing1_1:Lf_Leg6_jnt/yanjingnan03changjing1_1:Lf_Leg7_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_knee_drv_jnt/yanjingnan03changjing1_1:Lfknee_bend0_startJnt/yanjingnan03changjing1_1:Lf_Leg6_jnt/yanjingnan03changjing1_1:Lf_Leg7_jnt/yanjingnan03changjing1_1:Lf_Leg8_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_Leg1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_Leg1_jnt/yanjingnan03changjing1_1:Lf_Leg2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_Leg1_jnt/yanjingnan03changjing1_1:Lf_Leg2_jnt/yanjingnan03changjing1_1:Lf_Leg3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:LfLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Lf_leg_drv_jnt/yanjingnan03changjing1_1:Lf_Leg1_jnt/yanjingnan03changjing1_1:Lf_Leg2_jnt/yanjingnan03changjing1_1:Lf_Leg3_jnt/yanjingnan03changjing1_1:Lf_Leg4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt/yanjingnan03changjing1_1:Rt_Leg9_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt/yanjingnan03changjing1_1:Rt_Leg9_jnt/yanjingnan03changjing1_1:Rt_foot_drv
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt/yanjingnan03changjing1_1:Rtknee_bend0_startJnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt/yanjingnan03changjing1_1:Rtknee_bend0_startJnt/yanjingnan03changjing1_1:Rt_Leg6_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt/yanjingnan03changjing1_1:Rtknee_bend0_startJnt/yanjingnan03changjing1_1:Rt_Leg6_jnt/yanjingnan03changjing1_1:Rt_Leg7_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_knee_drv_jnt/yanjingnan03changjing1_1:Rtknee_bend0_startJnt/yanjingnan03changjing1_1:Rt_Leg6_jnt/yanjingnan03changjing1_1:Rt_Leg7_jnt/yanjingnan03changjing1_1:Rt_Leg8_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_Leg1_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_Leg1_jnt/yanjingnan03changjing1_1:Rt_Leg2_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_Leg1_jnt/yanjingnan03changjing1_1:Rt_Leg2_jnt/yanjingnan03changjing1_1:Rt_Leg3_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:boy_b_ctrl/yanjingnan03changjing1_1:Master/yanjingnan03changjing1_1:Character/yanjingnan03changjing1_1:waist_Ctrl_GRP/yanjingnan03changjing1_1:waist_Ctrl/yanjingnan03changjing1_1:waist_GRP/yanjingnan03changjing1_1:waistikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl_GRP/yanjingnan03changjing1_1:root_waist_ikCtrl/yanjingnan03changjing1_1:RtLeg_ALL_CTRL_GRP/yanjingnan03changjing1_1:Rt_leg_drv_jnt/yanjingnan03changjing1_1:Rt_Leg1_jnt/yanjingnan03changjing1_1:Rt_Leg2_jnt/yanjingnan03changjing1_1:Rt_Leg3_jnt/yanjingnan03changjing1_1:Rt_Leg4_jnt
+        weight: 1
+      - path: yanjingnan03changjing1_1:group321
+        weight: 1
+      - path: yanjingnan03changjing1_1:group321/yanjingnan03changjing1_1:nurbsToPoly141
+        weight: 1
+      - path: yanjingnan03changjing1_1:group321/yanjingnan03changjing1_1:pasted__pCylinder7
+        weight: 1
+      - path: yanjingnan03changjing1_1:group321/yanjingnan03changjing1_1:pasted__pCylinder8
+        weight: 1
+      - path: yanjingnan03changjing1_1:group321/yanjingnan03changjing1_1:polySurface511
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp/yanjingnan03changjing1_1:kou
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp/yanjingnan03changjing1_1:kou/yanjingnan03changjing1_1:polySurface508
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp/yanjingnan03changjing1_1:kou/yanjingnan03changjing1_1:xia_teeth
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp/yanjingnan03changjing1_1:kou/yanjingnan03changjing1_1:xia_teeth/yanjingnan03changjing1_1:polySurface473
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp/yanjingnan03changjing1_1:kou/yanjingnan03changjing1_1:xia_teeth/yanjingnan03changjing1_1:polySurface496
+        weight: 1
+      - path: yanjingnan03changjing1_1:P_grp/yanjingnan03changjing1_1:kou/yanjingnan03changjing1_1:xia_teeth/yanjingnan03changjing1_1:polySurface509
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

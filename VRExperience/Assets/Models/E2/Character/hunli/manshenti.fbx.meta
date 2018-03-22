@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 39b316a18b715d24292a91f436d6665f
+timeCreated: 1521516239
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blend_ctrl
+    100002: blend_curve
+    100004: Boy_b
+    100006: boy_b_ctrl
+    100008: group295
+    100010: hunli1:Sole1
+    100012: hunli1:Sole2
+    100014: hunli1:transform1
+    100016: hunli1:transform2
+    100018: hunli1:transform3
+    100020: hunli1:transform4
+    100022: hunli:3_SkinHand001
+    100024: hunli:PantsCloth
+    100026: hunli:ShirtSleeves
+    100028: hunli:Sole1
+    100030: //RootNode
+    100032: polySurface512
+    100034: polySurface512 1
+    100036: polySurface513
+    100038: polySurface514
+    100040: polySurface515
+    100042: polySurface516
+    100044: polySurface517
+    100046: polySurface518
+    100048: polySurface519
+    100050: polySurface520
+    100052: polySurface521
+    100054: polySurface522
+    100056: polySurface523
+    100058: polySurface524
+    100060: polySurface525
+    100062: polySurface526
+    100064: polySurface527
+    100066: polySurface528
+    100068: polySurface529
+    100070: polySurface530
+    100072: polySurface531
+    100074: polySurface532
+    100076: polySurface533
+    100078: polySurface534
+    100080: polySurface535
+    100082: polySurface536
+    100084: polySurface537
+    100086: polySurface538
+    100088: polySurface539
+    100090: polySurface540
+    100092: polySurface541
+    100094: polySurface542
+    100096: polySurface543
+    100098: polySurface544
+    100100: polySurface545
+    100102: polySurface546
+    100104: polySurface547
+    100106: polySurface548
+    100108: polySurface549
+    100110: polySurface550
+    100112: polySurface551
+    100114: polySurface552
+    100116: polySurface553
+    100118: polySurface553 1
+    100120: polySurface554
+    100122: polySurface555
+    100124: polySurface556
+    100126: polySurface557
+    100128: polySurface558
+    100130: polySurface559
+    100132: polySurface560
+    100134: polySurface561
+    100136: polySurface562
+    100138: polySurface563
+    100140: polySurface564
+    100142: polySurface565
+    100144: polySurface566
+    100146: polySurface567
+    100148: polySurface568
+    100150: transform1
+    100152: transform10
+    100154: transform11
+    100156: transform12
+    100158: transform13
+    100160: transform14
+    100162: transform15
+    100164: transform16
+    100166: transform17
+    100168: transform18
+    100170: transform19
+    100172: transform2
+    100174: transform20
+    100176: transform21
+    100178: transform22
+    100180: transform23
+    100182: transform24
+    100184: transform25
+    100186: transform26
+    100188: transform27
+    100190: transform28
+    100192: transform29
+    100194: transform3
+    100196: transform30
+    100198: transform31
+    100200: transform32
+    100202: transform33
+    100204: transform34
+    100206: transform35
+    100208: transform36
+    100210: transform37
+    100212: transform38
+    100214: transform39
+    100216: transform4
+    100218: transform40
+    100220: transform41
+    100222: transform42
+    100224: transform43
+    100226: transform44
+    100228: transform45
+    100230: transform46
+    100232: transform47
+    100234: transform48
+    100236: transform49
+    100238: transform5
+    100240: transform50
+    100242: transform51
+    100244: transform52
+    100246: transform53
+    100248: transform54
+    100250: transform55
+    100252: transform56
+    100254: transform57
+    100256: transform6
+    100258: transform7
+    100260: transform8
+    100262: transform9
+    100264: zui_l_xia_ctrl
+    400000: blend_ctrl
+    400002: blend_curve
+    400004: Boy_b
+    400006: boy_b_ctrl
+    400008: group295
+    400010: hunli1:Sole1
+    400012: hunli1:Sole2
+    400014: hunli1:transform1
+    400016: hunli1:transform2
+    400018: hunli1:transform3
+    400020: hunli1:transform4
+    400022: hunli:3_SkinHand001
+    400024: hunli:PantsCloth
+    400026: hunli:ShirtSleeves
+    400028: hunli:Sole1
+    400030: //RootNode
+    400032: polySurface512
+    400034: polySurface512 1
+    400036: polySurface513
+    400038: polySurface514
+    400040: polySurface515
+    400042: polySurface516
+    400044: polySurface517
+    400046: polySurface518
+    400048: polySurface519
+    400050: polySurface520
+    400052: polySurface521
+    400054: polySurface522
+    400056: polySurface523
+    400058: polySurface524
+    400060: polySurface525
+    400062: polySurface526
+    400064: polySurface527
+    400066: polySurface528
+    400068: polySurface529
+    400070: polySurface530
+    400072: polySurface531
+    400074: polySurface532
+    400076: polySurface533
+    400078: polySurface534
+    400080: polySurface535
+    400082: polySurface536
+    400084: polySurface537
+    400086: polySurface538
+    400088: polySurface539
+    400090: polySurface540
+    400092: polySurface541
+    400094: polySurface542
+    400096: polySurface543
+    400098: polySurface544
+    400100: polySurface545
+    400102: polySurface546
+    400104: polySurface547
+    400106: polySurface548
+    400108: polySurface549
+    400110: polySurface550
+    400112: polySurface551
+    400114: polySurface552
+    400116: polySurface553
+    400118: polySurface553 1
+    400120: polySurface554
+    400122: polySurface555
+    400124: polySurface556
+    400126: polySurface557
+    400128: polySurface558
+    400130: polySurface559
+    400132: polySurface560
+    400134: polySurface561
+    400136: polySurface562
+    400138: polySurface563
+    400140: polySurface564
+    400142: polySurface565
+    400144: polySurface566
+    400146: polySurface567
+    400148: polySurface568
+    400150: transform1
+    400152: transform10
+    400154: transform11
+    400156: transform12
+    400158: transform13
+    400160: transform14
+    400162: transform15
+    400164: transform16
+    400166: transform17
+    400168: transform18
+    400170: transform19
+    400172: transform2
+    400174: transform20
+    400176: transform21
+    400178: transform22
+    400180: transform23
+    400182: transform24
+    400184: transform25
+    400186: transform26
+    400188: transform27
+    400190: transform28
+    400192: transform29
+    400194: transform3
+    400196: transform30
+    400198: transform31
+    400200: transform32
+    400202: transform33
+    400204: transform34
+    400206: transform35
+    400208: transform36
+    400210: transform37
+    400212: transform38
+    400214: transform39
+    400216: transform4
+    400218: transform40
+    400220: transform41
+    400222: transform42
+    400224: transform43
+    400226: transform44
+    400228: transform45
+    400230: transform46
+    400232: transform47
+    400234: transform48
+    400236: transform49
+    400238: transform5
+    400240: transform50
+    400242: transform51
+    400244: transform52
+    400246: transform53
+    400248: transform54
+    400250: transform55
+    400252: transform56
+    400254: transform57
+    400256: transform6
+    400258: transform7
+    400260: transform8
+    400262: transform9
+    400264: zui_l_xia_ctrl
+    2300000: hunli:3_SkinHand001
+    2300002: polySurface512
+    2300004: polySurface552
+    2300006: polySurface553
+    3300000: hunli:3_SkinHand001
+    3300002: polySurface512
+    3300004: polySurface552
+    3300006: polySurface553
+    4300000: polySurface552
+    4300002: hunli:3_SkinHand001
+    4300004: polySurface512
+    4300006: polySurface553
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 210
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boy_b
+        weight: 1
+      - path: Boy_b/boy_b_ctrl
+        weight: 1
+      - path: Boy_b/boy_b_ctrl/blend_ctrl
+        weight: 1
+      - path: Boy_b/boy_b_ctrl/blend_ctrl/blend_curve
+        weight: 1
+      - path: Boy_b/boy_b_ctrl/blend_ctrl/blend_curve/group295
+        weight: 1
+      - path: Boy_b/boy_b_ctrl/blend_ctrl/blend_curve/group295/zui_l_xia_ctrl
+        weight: 1
+      - path: hunli1:Sole1
+        weight: 1
+      - path: hunli1:Sole1/hunli1:transform4
+        weight: 1
+      - path: hunli1:Sole2
+        weight: 1
+      - path: hunli1:Sole2/polySurface512 1
+        weight: 1
+      - path: hunli1:Sole2/polySurface512 1/transform41
+        weight: 1
+      - path: hunli1:Sole2/polySurface513
+        weight: 1
+      - path: hunli1:Sole2/polySurface513/transform40
+        weight: 1
+      - path: hunli1:Sole2/polySurface514
+        weight: 1
+      - path: hunli1:Sole2/polySurface514/transform39
+        weight: 1
+      - path: hunli1:Sole2/polySurface515
+        weight: 1
+      - path: hunli1:Sole2/polySurface515/transform38
+        weight: 1
+      - path: hunli1:Sole2/polySurface516
+        weight: 1
+      - path: hunli1:Sole2/polySurface516/transform37
+        weight: 1
+      - path: hunli1:Sole2/polySurface517
+        weight: 1
+      - path: hunli1:Sole2/polySurface517/transform36
+        weight: 1
+      - path: hunli1:Sole2/polySurface518
+        weight: 1
+      - path: hunli1:Sole2/polySurface518/transform35
+        weight: 1
+      - path: hunli1:Sole2/polySurface519
+        weight: 1
+      - path: hunli1:Sole2/polySurface519/transform34
+        weight: 1
+      - path: hunli1:Sole2/polySurface520
+        weight: 1
+      - path: hunli1:Sole2/polySurface520/transform33
+        weight: 1
+      - path: hunli1:Sole2/polySurface521
+        weight: 1
+      - path: hunli1:Sole2/polySurface521/transform32
+        weight: 1
+      - path: hunli1:Sole2/polySurface522
+        weight: 1
+      - path: hunli1:Sole2/polySurface522/transform31
+        weight: 1
+      - path: hunli1:Sole2/polySurface523
+        weight: 1
+      - path: hunli1:Sole2/polySurface523/transform30
+        weight: 1
+      - path: hunli1:Sole2/polySurface524
+        weight: 1
+      - path: hunli1:Sole2/polySurface524/transform29
+        weight: 1
+      - path: hunli1:Sole2/polySurface525
+        weight: 1
+      - path: hunli1:Sole2/polySurface525/transform28
+        weight: 1
+      - path: hunli1:Sole2/polySurface526
+        weight: 1
+      - path: hunli1:Sole2/polySurface526/transform27
+        weight: 1
+      - path: hunli1:Sole2/polySurface527
+        weight: 1
+      - path: hunli1:Sole2/polySurface527/transform26
+        weight: 1
+      - path: hunli1:Sole2/polySurface528
+        weight: 1
+      - path: hunli1:Sole2/polySurface528/transform25
+        weight: 1
+      - path: hunli1:Sole2/polySurface529
+        weight: 1
+      - path: hunli1:Sole2/polySurface529/transform24
+        weight: 1
+      - path: hunli1:Sole2/polySurface530
+        weight: 1
+      - path: hunli1:Sole2/polySurface530/transform23
+        weight: 1
+      - path: hunli1:Sole2/polySurface531
+        weight: 1
+      - path: hunli1:Sole2/polySurface531/transform22
+        weight: 1
+      - path: hunli1:Sole2/polySurface532
+        weight: 1
+      - path: hunli1:Sole2/polySurface532/transform21
+        weight: 1
+      - path: hunli1:Sole2/polySurface533
+        weight: 1
+      - path: hunli1:Sole2/polySurface533/transform20
+        weight: 1
+      - path: hunli1:Sole2/polySurface534
+        weight: 1
+      - path: hunli1:Sole2/polySurface534/transform19
+        weight: 1
+      - path: hunli1:Sole2/polySurface535
+        weight: 1
+      - path: hunli1:Sole2/polySurface535/transform18
+        weight: 1
+      - path: hunli1:Sole2/polySurface536
+        weight: 1
+      - path: hunli1:Sole2/polySurface536/transform17
+        weight: 1
+      - path: hunli1:Sole2/polySurface537
+        weight: 1
+      - path: hunli1:Sole2/polySurface537/transform16
+        weight: 1
+      - path: hunli1:Sole2/polySurface538
+        weight: 1
+      - path: hunli1:Sole2/polySurface538/transform15
+        weight: 1
+      - path: hunli1:Sole2/polySurface539
+        weight: 1
+      - path: hunli1:Sole2/polySurface539/transform14
+        weight: 1
+      - path: hunli1:Sole2/polySurface540
+        weight: 1
+      - path: hunli1:Sole2/polySurface540/transform13
+        weight: 1
+      - path: hunli1:Sole2/polySurface541
+        weight: 1
+      - path: hunli1:Sole2/polySurface541/transform12
+        weight: 1
+      - path: hunli1:Sole2/polySurface542
+        weight: 1
+      - path: hunli1:Sole2/polySurface542/transform11
+        weight: 1
+      - path: hunli1:Sole2/polySurface543
+        weight: 1
+      - path: hunli1:Sole2/polySurface543/transform10
+        weight: 1
+      - path: hunli1:Sole2/polySurface544
+        weight: 1
+      - path: hunli1:Sole2/polySurface544/transform9
+        weight: 1
+      - path: hunli1:Sole2/polySurface545
+        weight: 1
+      - path: hunli1:Sole2/polySurface545/transform8
+        weight: 1
+      - path: hunli1:Sole2/polySurface546
+        weight: 1
+      - path: hunli1:Sole2/polySurface546/transform7
+        weight: 1
+      - path: hunli1:Sole2/polySurface547
+        weight: 1
+      - path: hunli1:Sole2/polySurface547/transform6
+        weight: 1
+      - path: hunli1:Sole2/polySurface548
+        weight: 1
+      - path: hunli1:Sole2/polySurface548/transform5
+        weight: 1
+      - path: hunli1:Sole2/polySurface549
+        weight: 1
+      - path: hunli1:Sole2/polySurface549/transform4
+        weight: 1
+      - path: hunli1:Sole2/polySurface550
+        weight: 1
+      - path: hunli1:Sole2/polySurface550/transform3
+        weight: 1
+      - path: hunli1:Sole2/polySurface551
+        weight: 1
+      - path: hunli1:Sole2/polySurface551/transform2
+        weight: 1
+      - path: hunli1:Sole2/polySurface552
+        weight: 1
+      - path: hunli1:Sole2/polySurface553 1
+        weight: 1
+      - path: hunli1:Sole2/polySurface553 1/transform57
+        weight: 1
+      - path: hunli1:Sole2/polySurface554
+        weight: 1
+      - path: hunli1:Sole2/polySurface554/transform56
+        weight: 1
+      - path: hunli1:Sole2/polySurface555
+        weight: 1
+      - path: hunli1:Sole2/polySurface555/transform55
+        weight: 1
+      - path: hunli1:Sole2/polySurface556
+        weight: 1
+      - path: hunli1:Sole2/polySurface556/transform54
+        weight: 1
+      - path: hunli1:Sole2/polySurface557
+        weight: 1
+      - path: hunli1:Sole2/polySurface557/transform53
+        weight: 1
+      - path: hunli1:Sole2/polySurface558
+        weight: 1
+      - path: hunli1:Sole2/polySurface558/transform52
+        weight: 1
+      - path: hunli1:Sole2/polySurface559
+        weight: 1
+      - path: hunli1:Sole2/polySurface559/transform51
+        weight: 1
+      - path: hunli1:Sole2/polySurface560
+        weight: 1
+      - path: hunli1:Sole2/polySurface560/transform50
+        weight: 1
+      - path: hunli1:Sole2/polySurface561
+        weight: 1
+      - path: hunli1:Sole2/polySurface561/transform49
+        weight: 1
+      - path: hunli1:Sole2/polySurface562
+        weight: 1
+      - path: hunli1:Sole2/polySurface562/transform48
+        weight: 1
+      - path: hunli1:Sole2/polySurface563
+        weight: 1
+      - path: hunli1:Sole2/polySurface563/transform47
+        weight: 1
+      - path: hunli1:Sole2/polySurface564
+        weight: 1
+      - path: hunli1:Sole2/polySurface564/transform46
+        weight: 1
+      - path: hunli1:Sole2/polySurface565
+        weight: 1
+      - path: hunli1:Sole2/polySurface565/transform45
+        weight: 1
+      - path: hunli1:Sole2/polySurface566
+        weight: 1
+      - path: hunli1:Sole2/polySurface566/transform44
+        weight: 1
+      - path: hunli1:Sole2/polySurface567
+        weight: 1
+      - path: hunli1:Sole2/polySurface567/transform43
+        weight: 1
+      - path: hunli1:Sole2/polySurface568
+        weight: 1
+      - path: hunli1:Sole2/polySurface568/transform42
+        weight: 1
+      - path: hunli1:Sole2/transform1
+        weight: 1
+      - path: hunli:3_SkinHand001
+        weight: 1
+      - path: hunli:PantsCloth
+        weight: 1
+      - path: hunli:PantsCloth/hunli1:transform1
+        weight: 1
+      - path: hunli:ShirtSleeves
+        weight: 1
+      - path: hunli:ShirtSleeves/hunli1:transform3
+        weight: 1
+      - path: hunli:Sole1
+        weight: 1
+      - path: hunli:Sole1/hunli1:transform2
+        weight: 1
+      - path: polySurface512
+        weight: 1
+      - path: polySurface553
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
