@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/E2_MindCare.unity
+- path: Assets/Scenes/E1_Judicature.unity
   isLoaded: 1
   isActive: 1

@@ -1,0 +1,1194 @@
+fileFormatVersion: 2
+guid: 70ccf247495a6d24995c2629f818aaf1
+timeCreated: 1522376131
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: jianyu2:1
+    100002: jianyu2:1 1
+    100004: jianyu2:1 10
+    100006: jianyu2:1 100
+    100008: jianyu2:1 101
+    100010: jianyu2:1 102
+    100012: jianyu2:1 103
+    100014: jianyu2:1 104
+    100016: jianyu2:1 105
+    100018: jianyu2:1 106
+    100020: jianyu2:1 107
+    100022: jianyu2:1 108
+    100024: jianyu2:1 109
+    100026: jianyu2:1 11
+    100028: jianyu2:1 110
+    100030: jianyu2:1 111
+    100032: jianyu2:1 112
+    100034: jianyu2:1 12
+    100036: jianyu2:1 13
+    100038: jianyu2:1 14
+    100040: jianyu2:1 15
+    100042: jianyu2:1 16
+    100044: jianyu2:1 17
+    100046: jianyu2:1 18
+    100048: jianyu2:1 19
+    100050: jianyu2:1 2
+    100052: jianyu2:1 20
+    100054: jianyu2:1 21
+    100056: jianyu2:1 22
+    100058: jianyu2:1 23
+    100060: jianyu2:1 24
+    100062: jianyu2:1 25
+    100064: jianyu2:1 26
+    100066: jianyu2:1 27
+    100068: jianyu2:1 28
+    100070: jianyu2:1 29
+    100072: jianyu2:1 3
+    100074: jianyu2:1 30
+    100076: jianyu2:1 31
+    100078: jianyu2:1 32
+    100080: jianyu2:1 33
+    100082: jianyu2:1 34
+    100084: jianyu2:1 35
+    100086: jianyu2:1 36
+    100088: jianyu2:1 37
+    100090: jianyu2:1 38
+    100092: jianyu2:1 39
+    100094: jianyu2:1 4
+    100096: jianyu2:1 40
+    100098: jianyu2:1 41
+    100100: jianyu2:1 42
+    100102: jianyu2:1 43
+    100104: jianyu2:1 44
+    100106: jianyu2:1 45
+    100108: jianyu2:1 46
+    100110: jianyu2:1 47
+    100112: jianyu2:1 48
+    100114: jianyu2:1 49
+    100116: jianyu2:1 5
+    100118: jianyu2:1 50
+    100120: jianyu2:1 51
+    100122: jianyu2:1 52
+    100124: jianyu2:1 53
+    100126: jianyu2:1 54
+    100128: jianyu2:1 55
+    100130: jianyu2:1 56
+    100132: jianyu2:1 57
+    100134: jianyu2:1 58
+    100136: jianyu2:1 59
+    100138: jianyu2:1 6
+    100140: jianyu2:1 60
+    100142: jianyu2:1 61
+    100144: jianyu2:1 62
+    100146: jianyu2:1 63
+    100148: jianyu2:1 64
+    100150: jianyu2:1 65
+    100152: jianyu2:1 66
+    100154: jianyu2:1 67
+    100156: jianyu2:1 68
+    100158: jianyu2:1 69
+    100160: jianyu2:1 7
+    100162: jianyu2:1 70
+    100164: jianyu2:1 71
+    100166: jianyu2:1 72
+    100168: jianyu2:1 73
+    100170: jianyu2:1 74
+    100172: jianyu2:1 75
+    100174: jianyu2:1 76
+    100176: jianyu2:1 77
+    100178: jianyu2:1 78
+    100180: jianyu2:1 79
+    100182: jianyu2:1 8
+    100184: jianyu2:1 80
+    100186: jianyu2:1 81
+    100188: jianyu2:1 82
+    100190: jianyu2:1 83
+    100192: jianyu2:1 84
+    100194: jianyu2:1 85
+    100196: jianyu2:1 86
+    100198: jianyu2:1 87
+    100200: jianyu2:1 88
+    100202: jianyu2:1 89
+    100204: jianyu2:1 9
+    100206: jianyu2:1 90
+    100208: jianyu2:1 91
+    100210: jianyu2:1 92
+    100212: jianyu2:1 93
+    100214: jianyu2:1 94
+    100216: jianyu2:1 95
+    100218: jianyu2:1 96
+    100220: jianyu2:1 97
+    100222: jianyu2:1 98
+    100224: jianyu2:1 99
+    100226: jianyu2:4
+    100228: jianyu2:5
+    100230: jianyu2:?
+    100232: jianyu2:pCube1
+    100234: jianyu2:pCube2
+    100236: jianyu2:pCube3
+    100238: jianyu2:pCylinder1
+    100240: jianyu2:pCylinder35
+    100242: jianyu2:pCylinder36
+    100244: jianyu2:pCylinder37
+    100246: jianyu2:pCylinder38
+    100248: jianyu2:pCylinder39
+    100250: jianyu2:pCylinder40
+    100252: jianyu2:pCylinder41
+    100254: jianyu2:pCylinder42
+    100256: jianyu2:pCylinder43
+    100258: jianyu2:pCylinder44
+    100260: jianyu2:pCylinder45
+    100262: jianyu2:pCylinder46
+    100264: jianyu2:pCylinder47
+    100266: jianyu2:pCylinder48
+    100268: jianyu2:pCylinder49
+    100270: jianyu2:pCylinder50
+    100272: jianyu2:pCylinder51
+    100274: jianyu2:pCylinder52
+    100276: jianyu2:pCylinder53
+    100278: jianyu2:pCylinder54
+    100280: jianyu2:pCylinder55
+    100282: jianyu2:pCylinder56
+    100284: jianyu2:pCylinder57
+    100286: jianyu2:pCylinder58
+    100288: jianyu2:pCylinder59
+    100290: jianyu2:pCylinder60
+    100292: jianyu2:pCylinder61
+    100294: jianyu2:pCylinder62
+    100296: jianyu2:pCylinder63
+    100298: jianyu2:pCylinder64
+    100300: jianyu2:pCylinder65
+    100302: jianyu2:pCylinder66
+    100304: jianyu2:pCylinder67
+    100306: jianyu2:pCylinder68
+    100308: jianyu2:pCylinder69
+    100310: jianyu2:pCylinder70
+    100312: jianyu2:pCylinder71
+    100314: jianyu2:pCylinder72
+    100316: jianyu2:pCylinder73
+    100318: jianyu2:polySurface1
+    100320: jianyu2:polySurface10
+    100322: jianyu2:polySurface100
+    100324: jianyu2:polySurface101
+    100326: jianyu2:polySurface101 1
+    100328: jianyu2:polySurface103
+    100330: jianyu2:polySurface11
+    100332: jianyu2:polySurface12
+    100334: jianyu2:polySurface13
+    100336: jianyu2:polySurface14
+    100338: jianyu2:polySurface15
+    100340: jianyu2:polySurface16
+    100342: jianyu2:polySurface17
+    100344: jianyu2:polySurface18
+    100346: jianyu2:polySurface181
+    100348: jianyu2:polySurface181 1
+    100350: jianyu2:polySurface182
+    100352: jianyu2:polySurface183
+    100354: jianyu2:polySurface184
+    100356: jianyu2:polySurface19
+    100358: jianyu2:polySurface191
+    100360: jianyu2:polySurface192
+    100362: jianyu2:polySurface192 1
+    100364: jianyu2:polySurface193
+    100366: jianyu2:polySurface193 1
+    100368: jianyu2:polySurface194
+    100370: jianyu2:polySurface197
+    100372: jianyu2:polySurface198
+    100374: jianyu2:polySurface199
+    100376: jianyu2:polySurface2
+    100378: jianyu2:polySurface20
+    100380: jianyu2:polySurface200
+    100382: jianyu2:polySurface201
+    100384: jianyu2:polySurface201 1
+    100386: jianyu2:polySurface202
+    100388: jianyu2:polySurface203
+    100390: jianyu2:polySurface204
+    100392: jianyu2:polySurface205
+    100394: jianyu2:polySurface206
+    100396: jianyu2:polySurface207
+    100398: jianyu2:polySurface208
+    100400: jianyu2:polySurface209
+    100402: jianyu2:polySurface21
+    100404: jianyu2:polySurface210
+    100406: jianyu2:polySurface211
+    100408: jianyu2:polySurface212
+    100410: jianyu2:polySurface213
+    100412: jianyu2:polySurface213 1
+    100414: jianyu2:polySurface214
+    100416: jianyu2:polySurface215
+    100418: jianyu2:polySurface216
+    100420: jianyu2:polySurface216 1
+    100422: jianyu2:polySurface217
+    100424: jianyu2:polySurface218
+    100426: jianyu2:polySurface219
+    100428: jianyu2:polySurface22
+    100430: jianyu2:polySurface220
+    100432: jianyu2:polySurface221
+    100434: jianyu2:polySurface222
+    100436: jianyu2:polySurface222 1
+    100438: jianyu2:polySurface223
+    100440: jianyu2:polySurface224
+    100442: jianyu2:polySurface225
+    100444: jianyu2:polySurface226
+    100446: jianyu2:polySurface227
+    100448: jianyu2:polySurface228
+    100450: jianyu2:polySurface229
+    100452: jianyu2:polySurface229 1
+    100454: jianyu2:polySurface23
+    100456: jianyu2:polySurface230
+    100458: jianyu2:polySurface230 1
+    100460: jianyu2:polySurface231
+    100462: jianyu2:polySurface234
+    100464: jianyu2:polySurface234 1
+    100466: jianyu2:polySurface235
+    100468: jianyu2:polySurface236
+    100470: jianyu2:polySurface237
+    100472: jianyu2:polySurface238
+    100474: jianyu2:polySurface24
+    100476: jianyu2:polySurface240
+    100478: jianyu2:polySurface241
+    100480: jianyu2:polySurface242
+    100482: jianyu2:polySurface25
+    100484: jianyu2:polySurface26
+    100486: jianyu2:polySurface27
+    100488: jianyu2:polySurface28
+    100490: jianyu2:polySurface29
+    100492: jianyu2:polySurface3
+    100494: jianyu2:polySurface30
+    100496: jianyu2:polySurface31
+    100498: jianyu2:polySurface4
+    100500: jianyu2:polySurface49
+    100502: jianyu2:polySurface49 1
+    100504: jianyu2:polySurface5
+    100506: jianyu2:polySurface50
+    100508: jianyu2:polySurface51
+    100510: jianyu2:polySurface52
+    100512: jianyu2:polySurface53
+    100514: jianyu2:polySurface54
+    100516: jianyu2:polySurface55
+    100518: jianyu2:polySurface56
+    100520: jianyu2:polySurface57
+    100522: jianyu2:polySurface58
+    100524: jianyu2:polySurface59
+    100526: jianyu2:polySurface6
+    100528: jianyu2:polySurface60
+    100530: jianyu2:polySurface61
+    100532: jianyu2:polySurface62
+    100534: jianyu2:polySurface63
+    100536: jianyu2:polySurface64
+    100538: jianyu2:polySurface65
+    100540: jianyu2:polySurface66
+    100542: jianyu2:polySurface67
+    100544: jianyu2:polySurface68
+    100546: jianyu2:polySurface69
+    100548: jianyu2:polySurface7
+    100550: jianyu2:polySurface70
+    100552: jianyu2:polySurface71
+    100554: jianyu2:polySurface72
+    100556: jianyu2:polySurface73
+    100558: jianyu2:polySurface74
+    100560: jianyu2:polySurface75
+    100562: jianyu2:polySurface76
+    100564: jianyu2:polySurface77
+    100566: jianyu2:polySurface78
+    100568: jianyu2:polySurface79
+    100570: jianyu2:polySurface8
+    100572: jianyu2:polySurface80
+    100574: jianyu2:polySurface81
+    100576: jianyu2:polySurface9
+    100578: jianyu2:transform1
+    100580: jianyu2:transform10
+    100582: jianyu2:transform11
+    100584: jianyu2:transform115
+    100586: jianyu2:transform116
+    100588: jianyu2:transform117
+    100590: jianyu2:transform118
+    100592: jianyu2:transform119
+    100594: jianyu2:transform12
+    100596: jianyu2:transform120
+    100598: jianyu2:transform121
+    100600: jianyu2:transform122
+    100602: jianyu2:transform123
+    100604: jianyu2:transform124
+    100606: jianyu2:transform125
+    100608: jianyu2:transform126
+    100610: jianyu2:transform127
+    100612: jianyu2:transform128
+    100614: jianyu2:transform129
+    100616: jianyu2:transform13
+    100618: jianyu2:transform130
+    100620: jianyu2:transform131
+    100622: jianyu2:transform132
+    100624: jianyu2:transform133
+    100626: jianyu2:transform134
+    100628: jianyu2:transform135
+    100630: jianyu2:transform136
+    100632: jianyu2:transform137
+    100634: jianyu2:transform138
+    100636: jianyu2:transform139
+    100638: jianyu2:transform14
+    100640: jianyu2:transform140
+    100642: jianyu2:transform141
+    100644: jianyu2:transform142
+    100646: jianyu2:transform143
+    100648: jianyu2:transform144
+    100650: jianyu2:transform145
+    100652: jianyu2:transform146
+    100654: jianyu2:transform147
+    100656: jianyu2:transform148
+    100658: jianyu2:transform149
+    100660: jianyu2:transform15
+    100662: jianyu2:transform150
+    100664: jianyu2:transform151
+    100666: jianyu2:transform152
+    100668: jianyu2:transform153
+    100670: jianyu2:transform154
+    100672: jianyu2:transform155
+    100674: jianyu2:transform156
+    100676: jianyu2:transform157
+    100678: jianyu2:transform158
+    100680: jianyu2:transform159
+    100682: jianyu2:transform16
+    100684: jianyu2:transform160
+    100686: jianyu2:transform161
+    100688: jianyu2:transform162
+    100690: jianyu2:transform163
+    100692: jianyu2:transform164
+    100694: jianyu2:transform165
+    100696: jianyu2:transform166
+    100698: jianyu2:transform167
+    100700: jianyu2:transform168
+    100702: jianyu2:transform169
+    100704: jianyu2:transform17
+    100706: jianyu2:transform170
+    100708: jianyu2:transform171
+    100710: jianyu2:transform172
+    100712: jianyu2:transform173
+    100714: jianyu2:transform174
+    100716: jianyu2:transform175
+    100718: jianyu2:transform176
+    100720: jianyu2:transform177
+    100722: jianyu2:transform178
+    100724: jianyu2:transform179
+    100726: jianyu2:transform18
+    100728: jianyu2:transform180
+    100730: jianyu2:transform181
+    100732: jianyu2:transform182
+    100734: jianyu2:transform183
+    100736: jianyu2:transform184
+    100738: jianyu2:transform185
+    100740: jianyu2:transform186
+    100742: jianyu2:transform187
+    100744: jianyu2:transform188
+    100746: jianyu2:transform189
+    100748: jianyu2:transform19
+    100750: jianyu2:transform190
+    100752: jianyu2:transform191
+    100754: jianyu2:transform192
+    100756: jianyu2:transform193
+    100758: jianyu2:transform194
+    100760: jianyu2:transform195
+    100762: jianyu2:transform196
+    100764: jianyu2:transform197
+    100766: jianyu2:transform198
+    100768: jianyu2:transform199
+    100770: jianyu2:transform2
+    100772: jianyu2:transform20
+    100774: jianyu2:transform200
+    100776: jianyu2:transform201
+    100778: jianyu2:transform202
+    100780: jianyu2:transform203
+    100782: jianyu2:transform204
+    100784: jianyu2:transform205
+    100786: jianyu2:transform206
+    100788: jianyu2:transform207
+    100790: jianyu2:transform208
+    100792: jianyu2:transform209
+    100794: jianyu2:transform21
+    100796: jianyu2:transform210
+    100798: jianyu2:transform211
+    100800: jianyu2:transform212
+    100802: jianyu2:transform213
+    100804: jianyu2:transform214
+    100806: jianyu2:transform215
+    100808: jianyu2:transform216
+    100810: jianyu2:transform217
+    100812: jianyu2:transform218
+    100814: jianyu2:transform219
+    100816: jianyu2:transform22
+    100818: jianyu2:transform220
+    100820: jianyu2:transform221
+    100822: jianyu2:transform222
+    100824: jianyu2:transform223
+    100826: jianyu2:transform224
+    100828: jianyu2:transform225
+    100830: jianyu2:transform226
+    100832: jianyu2:transform227
+    100834: jianyu2:transform228
+    100836: jianyu2:transform229
+    100838: jianyu2:transform23
+    100840: jianyu2:transform230
+    100842: jianyu2:transform231
+    100844: jianyu2:transform232
+    100846: jianyu2:transform233
+    100848: jianyu2:transform234
+    100850: jianyu2:transform235
+    100852: jianyu2:transform236
+    100854: jianyu2:transform237
+    100856: jianyu2:transform238
+    100858: jianyu2:transform239
+    100860: jianyu2:transform24
+    100862: jianyu2:transform240
+    100864: jianyu2:transform241
+    100866: jianyu2:transform242
+    100868: jianyu2:transform243
+    100870: jianyu2:transform244
+    100872: jianyu2:transform245
+    100874: jianyu2:transform246
+    100876: jianyu2:transform247
+    100878: jianyu2:transform248
+    100880: jianyu2:transform249
+    100882: jianyu2:transform25
+    100884: jianyu2:transform250
+    100886: jianyu2:transform251
+    100888: jianyu2:transform252
+    100890: jianyu2:transform253
+    100892: jianyu2:transform254
+    100894: jianyu2:transform255
+    100896: jianyu2:transform256
+    100898: jianyu2:transform257
+    100900: jianyu2:transform258
+    100902: jianyu2:transform259
+    100904: jianyu2:transform26
+    100906: jianyu2:transform260
+    100908: jianyu2:transform261
+    100910: jianyu2:transform262
+    100912: jianyu2:transform263
+    100914: jianyu2:transform264
+    100916: jianyu2:transform265
+    100918: jianyu2:transform266
+    100920: jianyu2:transform267
+    100922: jianyu2:transform268
+    100924: jianyu2:transform269
+    100926: jianyu2:transform27
+    100928: jianyu2:transform270
+    100930: jianyu2:transform271
+    100932: jianyu2:transform272
+    100934: jianyu2:transform273
+    100936: jianyu2:transform275
+    100938: jianyu2:transform276
+    100940: jianyu2:transform277
+    100942: jianyu2:transform278
+    100944: jianyu2:transform279
+    100946: jianyu2:transform28
+    100948: jianyu2:transform280
+    100950: jianyu2:transform281
+    100952: jianyu2:transform282
+    100954: jianyu2:transform283
+    100956: jianyu2:transform284
+    100958: jianyu2:transform285
+    100960: jianyu2:transform286
+    100962: jianyu2:transform287
+    100964: jianyu2:transform288
+    100966: jianyu2:transform289
+    100968: jianyu2:transform29
+    100970: jianyu2:transform290
+    100972: jianyu2:transform291
+    100974: jianyu2:transform292
+    100976: jianyu2:transform293
+    100978: jianyu2:transform294
+    100980: jianyu2:transform295
+    100982: jianyu2:transform296
+    100984: jianyu2:transform297
+    100986: jianyu2:transform298
+    100988: jianyu2:transform299
+    100990: jianyu2:transform3
+    100992: jianyu2:transform30
+    100994: jianyu2:transform300
+    100996: jianyu2:transform301
+    100998: jianyu2:transform302
+    101000: jianyu2:transform303
+    101002: jianyu2:transform304
+    101004: jianyu2:transform305
+    101006: jianyu2:transform306
+    101008: jianyu2:transform307
+    101010: jianyu2:transform308
+    101012: jianyu2:transform309
+    101014: jianyu2:transform31
+    101016: jianyu2:transform310
+    101018: jianyu2:transform311
+    101020: jianyu2:transform312
+    101022: jianyu2:transform313
+    101024: jianyu2:transform314
+    101026: jianyu2:transform315
+    101028: jianyu2:transform316
+    101030: jianyu2:transform317
+    101032: jianyu2:transform318
+    101034: jianyu2:transform319
+    101036: jianyu2:transform320
+    101038: jianyu2:transform321
+    101040: jianyu2:transform4
+    101042: jianyu2:transform5
+    101044: jianyu2:transform6
+    101046: jianyu2:transform7
+    101048: jianyu2:transform8
+    101050: jianyu2:transform9
+    101052: jianyu2:zhuoyi:polySurface1
+    101054: //RootNode
+    400000: jianyu2:1
+    400002: jianyu2:1 1
+    400004: jianyu2:1 10
+    400006: jianyu2:1 100
+    400008: jianyu2:1 101
+    400010: jianyu2:1 102
+    400012: jianyu2:1 103
+    400014: jianyu2:1 104
+    400016: jianyu2:1 105
+    400018: jianyu2:1 106
+    400020: jianyu2:1 107
+    400022: jianyu2:1 108
+    400024: jianyu2:1 109
+    400026: jianyu2:1 11
+    400028: jianyu2:1 110
+    400030: jianyu2:1 111
+    400032: jianyu2:1 112
+    400034: jianyu2:1 12
+    400036: jianyu2:1 13
+    400038: jianyu2:1 14
+    400040: jianyu2:1 15
+    400042: jianyu2:1 16
+    400044: jianyu2:1 17
+    400046: jianyu2:1 18
+    400048: jianyu2:1 19
+    400050: jianyu2:1 2
+    400052: jianyu2:1 20
+    400054: jianyu2:1 21
+    400056: jianyu2:1 22
+    400058: jianyu2:1 23
+    400060: jianyu2:1 24
+    400062: jianyu2:1 25
+    400064: jianyu2:1 26
+    400066: jianyu2:1 27
+    400068: jianyu2:1 28
+    400070: jianyu2:1 29
+    400072: jianyu2:1 3
+    400074: jianyu2:1 30
+    400076: jianyu2:1 31
+    400078: jianyu2:1 32
+    400080: jianyu2:1 33
+    400082: jianyu2:1 34
+    400084: jianyu2:1 35
+    400086: jianyu2:1 36
+    400088: jianyu2:1 37
+    400090: jianyu2:1 38
+    400092: jianyu2:1 39
+    400094: jianyu2:1 4
+    400096: jianyu2:1 40
+    400098: jianyu2:1 41
+    400100: jianyu2:1 42
+    400102: jianyu2:1 43
+    400104: jianyu2:1 44
+    400106: jianyu2:1 45
+    400108: jianyu2:1 46
+    400110: jianyu2:1 47
+    400112: jianyu2:1 48
+    400114: jianyu2:1 49
+    400116: jianyu2:1 5
+    400118: jianyu2:1 50
+    400120: jianyu2:1 51
+    400122: jianyu2:1 52
+    400124: jianyu2:1 53
+    400126: jianyu2:1 54
+    400128: jianyu2:1 55
+    400130: jianyu2:1 56
+    400132: jianyu2:1 57
+    400134: jianyu2:1 58
+    400136: jianyu2:1 59
+    400138: jianyu2:1 6
+    400140: jianyu2:1 60
+    400142: jianyu2:1 61
+    400144: jianyu2:1 62
+    400146: jianyu2:1 63
+    400148: jianyu2:1 64
+    400150: jianyu2:1 65
+    400152: jianyu2:1 66
+    400154: jianyu2:1 67
+    400156: jianyu2:1 68
+    400158: jianyu2:1 69
+    400160: jianyu2:1 7
+    400162: jianyu2:1 70
+    400164: jianyu2:1 71
+    400166: jianyu2:1 72
+    400168: jianyu2:1 73
+    400170: jianyu2:1 74
+    400172: jianyu2:1 75
+    400174: jianyu2:1 76
+    400176: jianyu2:1 77
+    400178: jianyu2:1 78
+    400180: jianyu2:1 79
+    400182: jianyu2:1 8
+    400184: jianyu2:1 80
+    400186: jianyu2:1 81
+    400188: jianyu2:1 82
+    400190: jianyu2:1 83
+    400192: jianyu2:1 84
+    400194: jianyu2:1 85
+    400196: jianyu2:1 86
+    400198: jianyu2:1 87
+    400200: jianyu2:1 88
+    400202: jianyu2:1 89
+    400204: jianyu2:1 9
+    400206: jianyu2:1 90
+    400208: jianyu2:1 91
+    400210: jianyu2:1 92
+    400212: jianyu2:1 93
+    400214: jianyu2:1 94
+    400216: jianyu2:1 95
+    400218: jianyu2:1 96
+    400220: jianyu2:1 97
+    400222: jianyu2:1 98
+    400224: jianyu2:1 99
+    400226: jianyu2:4
+    400228: jianyu2:5
+    400230: jianyu2:?
+    400232: jianyu2:pCube1
+    400234: jianyu2:pCube2
+    400236: jianyu2:pCube3
+    400238: jianyu2:pCylinder1
+    400240: jianyu2:pCylinder35
+    400242: jianyu2:pCylinder36
+    400244: jianyu2:pCylinder37
+    400246: jianyu2:pCylinder38
+    400248: jianyu2:pCylinder39
+    400250: jianyu2:pCylinder40
+    400252: jianyu2:pCylinder41
+    400254: jianyu2:pCylinder42
+    400256: jianyu2:pCylinder43
+    400258: jianyu2:pCylinder44
+    400260: jianyu2:pCylinder45
+    400262: jianyu2:pCylinder46
+    400264: jianyu2:pCylinder47
+    400266: jianyu2:pCylinder48
+    400268: jianyu2:pCylinder49
+    400270: jianyu2:pCylinder50
+    400272: jianyu2:pCylinder51
+    400274: jianyu2:pCylinder52
+    400276: jianyu2:pCylinder53
+    400278: jianyu2:pCylinder54
+    400280: jianyu2:pCylinder55
+    400282: jianyu2:pCylinder56
+    400284: jianyu2:pCylinder57
+    400286: jianyu2:pCylinder58
+    400288: jianyu2:pCylinder59
+    400290: jianyu2:pCylinder60
+    400292: jianyu2:pCylinder61
+    400294: jianyu2:pCylinder62
+    400296: jianyu2:pCylinder63
+    400298: jianyu2:pCylinder64
+    400300: jianyu2:pCylinder65
+    400302: jianyu2:pCylinder66
+    400304: jianyu2:pCylinder67
+    400306: jianyu2:pCylinder68
+    400308: jianyu2:pCylinder69
+    400310: jianyu2:pCylinder70
+    400312: jianyu2:pCylinder71
+    400314: jianyu2:pCylinder72
+    400316: jianyu2:pCylinder73
+    400318: jianyu2:polySurface1
+    400320: jianyu2:polySurface10
+    400322: jianyu2:polySurface100
+    400324: jianyu2:polySurface101
+    400326: jianyu2:polySurface101 1
+    400328: jianyu2:polySurface103
+    400330: jianyu2:polySurface11
+    400332: jianyu2:polySurface12
+    400334: jianyu2:polySurface13
+    400336: jianyu2:polySurface14
+    400338: jianyu2:polySurface15
+    400340: jianyu2:polySurface16
+    400342: jianyu2:polySurface17
+    400344: jianyu2:polySurface18
+    400346: jianyu2:polySurface181
+    400348: jianyu2:polySurface181 1
+    400350: jianyu2:polySurface182
+    400352: jianyu2:polySurface183
+    400354: jianyu2:polySurface184
+    400356: jianyu2:polySurface19
+    400358: jianyu2:polySurface191
+    400360: jianyu2:polySurface192
+    400362: jianyu2:polySurface192 1
+    400364: jianyu2:polySurface193
+    400366: jianyu2:polySurface193 1
+    400368: jianyu2:polySurface194
+    400370: jianyu2:polySurface197
+    400372: jianyu2:polySurface198
+    400374: jianyu2:polySurface199
+    400376: jianyu2:polySurface2
+    400378: jianyu2:polySurface20
+    400380: jianyu2:polySurface200
+    400382: jianyu2:polySurface201
+    400384: jianyu2:polySurface201 1
+    400386: jianyu2:polySurface202
+    400388: jianyu2:polySurface203
+    400390: jianyu2:polySurface204
+    400392: jianyu2:polySurface205
+    400394: jianyu2:polySurface206
+    400396: jianyu2:polySurface207
+    400398: jianyu2:polySurface208
+    400400: jianyu2:polySurface209
+    400402: jianyu2:polySurface21
+    400404: jianyu2:polySurface210
+    400406: jianyu2:polySurface211
+    400408: jianyu2:polySurface212
+    400410: jianyu2:polySurface213
+    400412: jianyu2:polySurface213 1
+    400414: jianyu2:polySurface214
+    400416: jianyu2:polySurface215
+    400418: jianyu2:polySurface216
+    400420: jianyu2:polySurface216 1
+    400422: jianyu2:polySurface217
+    400424: jianyu2:polySurface218
+    400426: jianyu2:polySurface219
+    400428: jianyu2:polySurface22
+    400430: jianyu2:polySurface220
+    400432: jianyu2:polySurface221
+    400434: jianyu2:polySurface222
+    400436: jianyu2:polySurface222 1
+    400438: jianyu2:polySurface223
+    400440: jianyu2:polySurface224
+    400442: jianyu2:polySurface225
+    400444: jianyu2:polySurface226
+    400446: jianyu2:polySurface227
+    400448: jianyu2:polySurface228
+    400450: jianyu2:polySurface229
+    400452: jianyu2:polySurface229 1
+    400454: jianyu2:polySurface23
+    400456: jianyu2:polySurface230
+    400458: jianyu2:polySurface230 1
+    400460: jianyu2:polySurface231
+    400462: jianyu2:polySurface234
+    400464: jianyu2:polySurface234 1
+    400466: jianyu2:polySurface235
+    400468: jianyu2:polySurface236
+    400470: jianyu2:polySurface237
+    400472: jianyu2:polySurface238
+    400474: jianyu2:polySurface24
+    400476: jianyu2:polySurface240
+    400478: jianyu2:polySurface241
+    400480: jianyu2:polySurface242
+    400482: jianyu2:polySurface25
+    400484: jianyu2:polySurface26
+    400486: jianyu2:polySurface27
+    400488: jianyu2:polySurface28
+    400490: jianyu2:polySurface29
+    400492: jianyu2:polySurface3
+    400494: jianyu2:polySurface30
+    400496: jianyu2:polySurface31
+    400498: jianyu2:polySurface4
+    400500: jianyu2:polySurface49
+    400502: jianyu2:polySurface49 1
+    400504: jianyu2:polySurface5
+    400506: jianyu2:polySurface50
+    400508: jianyu2:polySurface51
+    400510: jianyu2:polySurface52
+    400512: jianyu2:polySurface53
+    400514: jianyu2:polySurface54
+    400516: jianyu2:polySurface55
+    400518: jianyu2:polySurface56
+    400520: jianyu2:polySurface57
+    400522: jianyu2:polySurface58
+    400524: jianyu2:polySurface59
+    400526: jianyu2:polySurface6
+    400528: jianyu2:polySurface60
+    400530: jianyu2:polySurface61
+    400532: jianyu2:polySurface62
+    400534: jianyu2:polySurface63
+    400536: jianyu2:polySurface64
+    400538: jianyu2:polySurface65
+    400540: jianyu2:polySurface66
+    400542: jianyu2:polySurface67
+    400544: jianyu2:polySurface68
+    400546: jianyu2:polySurface69
+    400548: jianyu2:polySurface7
+    400550: jianyu2:polySurface70
+    400552: jianyu2:polySurface71
+    400554: jianyu2:polySurface72
+    400556: jianyu2:polySurface73
+    400558: jianyu2:polySurface74
+    400560: jianyu2:polySurface75
+    400562: jianyu2:polySurface76
+    400564: jianyu2:polySurface77
+    400566: jianyu2:polySurface78
+    400568: jianyu2:polySurface79
+    400570: jianyu2:polySurface8
+    400572: jianyu2:polySurface80
+    400574: jianyu2:polySurface81
+    400576: jianyu2:polySurface9
+    400578: jianyu2:transform1
+    400580: jianyu2:transform10
+    400582: jianyu2:transform11
+    400584: jianyu2:transform115
+    400586: jianyu2:transform116
+    400588: jianyu2:transform117
+    400590: jianyu2:transform118
+    400592: jianyu2:transform119
+    400594: jianyu2:transform12
+    400596: jianyu2:transform120
+    400598: jianyu2:transform121
+    400600: jianyu2:transform122
+    400602: jianyu2:transform123
+    400604: jianyu2:transform124
+    400606: jianyu2:transform125
+    400608: jianyu2:transform126
+    400610: jianyu2:transform127
+    400612: jianyu2:transform128
+    400614: jianyu2:transform129
+    400616: jianyu2:transform13
+    400618: jianyu2:transform130
+    400620: jianyu2:transform131
+    400622: jianyu2:transform132
+    400624: jianyu2:transform133
+    400626: jianyu2:transform134
+    400628: jianyu2:transform135
+    400630: jianyu2:transform136
+    400632: jianyu2:transform137
+    400634: jianyu2:transform138
+    400636: jianyu2:transform139
+    400638: jianyu2:transform14
+    400640: jianyu2:transform140
+    400642: jianyu2:transform141
+    400644: jianyu2:transform142
+    400646: jianyu2:transform143
+    400648: jianyu2:transform144
+    400650: jianyu2:transform145
+    400652: jianyu2:transform146
+    400654: jianyu2:transform147
+    400656: jianyu2:transform148
+    400658: jianyu2:transform149
+    400660: jianyu2:transform15
+    400662: jianyu2:transform150
+    400664: jianyu2:transform151
+    400666: jianyu2:transform152
+    400668: jianyu2:transform153
+    400670: jianyu2:transform154
+    400672: jianyu2:transform155
+    400674: jianyu2:transform156
+    400676: jianyu2:transform157
+    400678: jianyu2:transform158
+    400680: jianyu2:transform159
+    400682: jianyu2:transform16
+    400684: jianyu2:transform160
+    400686: jianyu2:transform161
+    400688: jianyu2:transform162
+    400690: jianyu2:transform163
+    400692: jianyu2:transform164
+    400694: jianyu2:transform165
+    400696: jianyu2:transform166
+    400698: jianyu2:transform167
+    400700: jianyu2:transform168
+    400702: jianyu2:transform169
+    400704: jianyu2:transform17
+    400706: jianyu2:transform170
+    400708: jianyu2:transform171
+    400710: jianyu2:transform172
+    400712: jianyu2:transform173
+    400714: jianyu2:transform174
+    400716: jianyu2:transform175
+    400718: jianyu2:transform176
+    400720: jianyu2:transform177
+    400722: jianyu2:transform178
+    400724: jianyu2:transform179
+    400726: jianyu2:transform18
+    400728: jianyu2:transform180
+    400730: jianyu2:transform181
+    400732: jianyu2:transform182
+    400734: jianyu2:transform183
+    400736: jianyu2:transform184
+    400738: jianyu2:transform185
+    400740: jianyu2:transform186
+    400742: jianyu2:transform187
+    400744: jianyu2:transform188
+    400746: jianyu2:transform189
+    400748: jianyu2:transform19
+    400750: jianyu2:transform190
+    400752: jianyu2:transform191
+    400754: jianyu2:transform192
+    400756: jianyu2:transform193
+    400758: jianyu2:transform194
+    400760: jianyu2:transform195
+    400762: jianyu2:transform196
+    400764: jianyu2:transform197
+    400766: jianyu2:transform198
+    400768: jianyu2:transform199
+    400770: jianyu2:transform2
+    400772: jianyu2:transform20
+    400774: jianyu2:transform200
+    400776: jianyu2:transform201
+    400778: jianyu2:transform202
+    400780: jianyu2:transform203
+    400782: jianyu2:transform204
+    400784: jianyu2:transform205
+    400786: jianyu2:transform206
+    400788: jianyu2:transform207
+    400790: jianyu2:transform208
+    400792: jianyu2:transform209
+    400794: jianyu2:transform21
+    400796: jianyu2:transform210
+    400798: jianyu2:transform211
+    400800: jianyu2:transform212
+    400802: jianyu2:transform213
+    400804: jianyu2:transform214
+    400806: jianyu2:transform215
+    400808: jianyu2:transform216
+    400810: jianyu2:transform217
+    400812: jianyu2:transform218
+    400814: jianyu2:transform219
+    400816: jianyu2:transform22
+    400818: jianyu2:transform220
+    400820: jianyu2:transform221
+    400822: jianyu2:transform222
+    400824: jianyu2:transform223
+    400826: jianyu2:transform224
+    400828: jianyu2:transform225
+    400830: jianyu2:transform226
+    400832: jianyu2:transform227
+    400834: jianyu2:transform228
+    400836: jianyu2:transform229
+    400838: jianyu2:transform23
+    400840: jianyu2:transform230
+    400842: jianyu2:transform231
+    400844: jianyu2:transform232
+    400846: jianyu2:transform233
+    400848: jianyu2:transform234
+    400850: jianyu2:transform235
+    400852: jianyu2:transform236
+    400854: jianyu2:transform237
+    400856: jianyu2:transform238
+    400858: jianyu2:transform239
+    400860: jianyu2:transform24
+    400862: jianyu2:transform240
+    400864: jianyu2:transform241
+    400866: jianyu2:transform242
+    400868: jianyu2:transform243
+    400870: jianyu2:transform244
+    400872: jianyu2:transform245
+    400874: jianyu2:transform246
+    400876: jianyu2:transform247
+    400878: jianyu2:transform248
+    400880: jianyu2:transform249
+    400882: jianyu2:transform25
+    400884: jianyu2:transform250
+    400886: jianyu2:transform251
+    400888: jianyu2:transform252
+    400890: jianyu2:transform253
+    400892: jianyu2:transform254
+    400894: jianyu2:transform255
+    400896: jianyu2:transform256
+    400898: jianyu2:transform257
+    400900: jianyu2:transform258
+    400902: jianyu2:transform259
+    400904: jianyu2:transform26
+    400906: jianyu2:transform260
+    400908: jianyu2:transform261
+    400910: jianyu2:transform262
+    400912: jianyu2:transform263
+    400914: jianyu2:transform264
+    400916: jianyu2:transform265
+    400918: jianyu2:transform266
+    400920: jianyu2:transform267
+    400922: jianyu2:transform268
+    400924: jianyu2:transform269
+    400926: jianyu2:transform27
+    400928: jianyu2:transform270
+    400930: jianyu2:transform271
+    400932: jianyu2:transform272
+    400934: jianyu2:transform273
+    400936: jianyu2:transform275
+    400938: jianyu2:transform276
+    400940: jianyu2:transform277
+    400942: jianyu2:transform278
+    400944: jianyu2:transform279
+    400946: jianyu2:transform28
+    400948: jianyu2:transform280
+    400950: jianyu2:transform281
+    400952: jianyu2:transform282
+    400954: jianyu2:transform283
+    400956: jianyu2:transform284
+    400958: jianyu2:transform285
+    400960: jianyu2:transform286
+    400962: jianyu2:transform287
+    400964: jianyu2:transform288
+    400966: jianyu2:transform289
+    400968: jianyu2:transform29
+    400970: jianyu2:transform290
+    400972: jianyu2:transform291
+    400974: jianyu2:transform292
+    400976: jianyu2:transform293
+    400978: jianyu2:transform294
+    400980: jianyu2:transform295
+    400982: jianyu2:transform296
+    400984: jianyu2:transform297
+    400986: jianyu2:transform298
+    400988: jianyu2:transform299
+    400990: jianyu2:transform3
+    400992: jianyu2:transform30
+    400994: jianyu2:transform300
+    400996: jianyu2:transform301
+    400998: jianyu2:transform302
+    401000: jianyu2:transform303
+    401002: jianyu2:transform304
+    401004: jianyu2:transform305
+    401006: jianyu2:transform306
+    401008: jianyu2:transform307
+    401010: jianyu2:transform308
+    401012: jianyu2:transform309
+    401014: jianyu2:transform31
+    401016: jianyu2:transform310
+    401018: jianyu2:transform311
+    401020: jianyu2:transform312
+    401022: jianyu2:transform313
+    401024: jianyu2:transform314
+    401026: jianyu2:transform315
+    401028: jianyu2:transform316
+    401030: jianyu2:transform317
+    401032: jianyu2:transform318
+    401034: jianyu2:transform319
+    401036: jianyu2:transform320
+    401038: jianyu2:transform321
+    401040: jianyu2:transform4
+    401042: jianyu2:transform5
+    401044: jianyu2:transform6
+    401046: jianyu2:transform7
+    401048: jianyu2:transform8
+    401050: jianyu2:transform9
+    401052: jianyu2:zhuoyi:polySurface1
+    401054: //RootNode
+    2300000: jianyu2:1 1
+    2300002: jianyu2:1 17
+    2300004: jianyu2:1 23
+    2300006: jianyu2:1 27
+    2300008: jianyu2:1 33
+    2300010: jianyu2:1 45
+    2300012: jianyu2:pCylinder71
+    2300014: jianyu2:pCylinder72
+    2300016: jianyu2:pCylinder73
+    2300018: jianyu2:polySurface213
+    2300020: jianyu2:polySurface216
+    2300022: jianyu2:polySurface222
+    2300024: jianyu2:polySurface226
+    2300026: jianyu2:polySurface228
+    2300028: jianyu2:polySurface230
+    2300030: jianyu2:polySurface231
+    2300032: jianyu2:polySurface238
+    2300034: jianyu2:polySurface240
+    2300036: jianyu2:polySurface241
+    2300038: jianyu2:polySurface242
+    3300000: jianyu2:1 1
+    3300002: jianyu2:1 17
+    3300004: jianyu2:1 23
+    3300006: jianyu2:1 27
+    3300008: jianyu2:1 33
+    3300010: jianyu2:1 45
+    3300012: jianyu2:pCylinder71
+    3300014: jianyu2:pCylinder72
+    3300016: jianyu2:pCylinder73
+    3300018: jianyu2:polySurface213
+    3300020: jianyu2:polySurface216
+    3300022: jianyu2:polySurface222
+    3300024: jianyu2:polySurface226
+    3300026: jianyu2:polySurface228
+    3300028: jianyu2:polySurface230
+    3300030: jianyu2:polySurface231
+    3300032: jianyu2:polySurface238
+    3300034: jianyu2:polySurface240
+    3300036: jianyu2:polySurface241
+    3300038: jianyu2:polySurface242
+    4300000: jianyu2:1
+    4300002: jianyu2:polySurface228
+    4300004: jianyu2:polySurface241
+    4300006: jianyu2:polySurface231
+    4300008: jianyu2:polySurface226
+    4300010: jianyu2:polySurface240
+    4300012: jianyu2:polySurface222
+    4300014: jianyu2:polySurface213
+    4300016: jianyu2:1
+    4300018: jianyu2:1
+    4300020: jianyu2:1
+    4300022: jianyu2:1
+    4300024: jianyu2:polySurface230
+    4300026: jianyu2:polySurface238
+    4300028: jianyu2:1
+    4300030: jianyu2:polySurface242
+    4300032: jianyu2:polySurface216
+    4300034: jianyu2:pCylinder71
+    4300036: jianyu2:pCylinder72
+    4300038: jianyu2:pCylinder73
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

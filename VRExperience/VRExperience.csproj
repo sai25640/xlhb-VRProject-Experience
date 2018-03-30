@@ -295,6 +295,7 @@
     <Compile Include="Assets\Scripts\E1\FadeUI.cs" />
     <Compile Include="Assets\Scripts\E1\FinalTest.cs" />
     <Compile Include="Assets\Scripts\E1\FinalTestCount.cs" />
+    <Compile Include="Assets\Scripts\E1\LightCube.cs" />
     <Compile Include="Assets\Scripts\E1\LookAtTarget.cs" />
     <Compile Include="Assets\Scripts\E1\MediaPlayerController.cs" />
     <Compile Include="Assets\Scripts\E1\OffenderTouchEvent.cs" />

@@ -17,6 +17,7 @@ public class Egg : MonoBehaviour
     public Light light3;
     public Material skybox;
     public GameObject plane;
+    public GameObject particle;
     private void Start()
     {
         //curAxisX = light.transform.eulerAngles.x;
@@ -71,6 +72,7 @@ public class Egg : MonoBehaviour
             light3.gameObject.SetActive(true);
             RenderSettings.skybox = skybox;
             plane.SetActive(false);
+            particle.SetActive(false);
 
         }
         light.transform.eulerAngles =  new Vector3(curAxisX , 0,0); 
