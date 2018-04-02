@@ -304,6 +304,7 @@
     <Compile Include="Assets\Scripts\E1\Wall2Test.cs" />
     <Compile Include="Assets\Scripts\E1\Wall4Test.cs" />
     <Compile Include="Assets\Scripts\E1\Wall5Test.cs" />
+    <Compile Include="Assets\Scripts\E1\WallManager_E1.cs" />
     <Compile Include="Assets\Scripts\E1\WallTest.cs" />
     <Compile Include="Assets\Scripts\E1\arrow.cs" />
     <Compile Include="Assets\Scripts\E2\Angel.cs" />
